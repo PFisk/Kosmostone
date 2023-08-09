@@ -1,0 +1,25 @@
+{
+  "name": "kosmostone",
+  "version": "1.0.0",
+  "description": "Kosmostone",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PFisk/Kosmostone.git"
+  },
+  "author": "PFisk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PFisk/Kosmostone/issues"
+  },
+  "homepage": "https://github.com/PFisk/Kosmostone#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}

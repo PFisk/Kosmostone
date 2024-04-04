@@ -7,7 +7,9 @@ const PORT = 8080;
 
 const app = express();
 
-const page = "https://fireball.amsmeteors.org/members/imo_view/browse_events";
+const currentYear = new Date().getFullYear();
+
+const page = `https://fireball.amsmeteors.org/members/imo_view/browse_events?country=-1&year=${currentYear}&num_report_select=toChange&event=&event_id=&event_year=&num_report=2`;
 
 const getFireballs = async (url) => {
 

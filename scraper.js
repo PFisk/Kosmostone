@@ -18,7 +18,9 @@ const getFireballs = async (url) => {
     const html = response.data
     const $ = cheerio.load(html)
 
-    const fireballs = []
+    const data = {
+        fireballs: []
+    }
 
     console.log("Getting dem balls")
 
@@ -38,22 +40,24 @@ const getFireballs = async (url) => {
 
         console.log("ID", ID)
         
-        fireballs.push({
-            eventID: ID,
-            reportAmount: reportNum,
-            UTDate: UTDate,
-            country: country,
-            location: location,
-            delayedSoundPositive: dSoundPositive,
-            delayedSoundNegative: dSoundNegative,
-            concurrentSoundPositive: cSoundPositive,
-            concurrentSoundNegative: cSoundNegative,
-            fragmentationPositive: fragPositive,
-            fragmentationNegative: fragNagative
-        })
+        if (reportNum) {
+            data.fireballs.push({
+                eventID: ID,
+                reportAmount: reportNum,
+                UTDate: UTDate,
+                country: country,
+                location: location,
+                delayedSoundPositive: dSoundPositive,
+                delayedSoundNegative: dSoundNegative,
+                concurrentSoundPositive: cSoundPositive,
+                concurrentSoundNegative: cSoundNegative,
+                fragmentationPositive: fragPositive,
+                fragmentationNegative: fragNagative
+            })
+        }
     })
 
-    return fireballs
+    return data
 
 }
 

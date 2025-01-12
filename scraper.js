@@ -22,7 +22,7 @@ const getFireballs = async (url) => {
         fireballs: []
     };
 
-    console.log("Getting data");
+    console.log("Getting data...");
 
     // Create an array of promises for processing each row
     const promises = [];
@@ -45,12 +45,9 @@ const getFireballs = async (url) => {
 
             const eventLinkFormatted = mainURL + eventLink
 
-            console.log("ID: ", ID);
-
             let cometColor = "";
             if (reportNum) {
                 cometColor = await getCometColor(eventLinkFormatted);
-                console.log("Consensus color for ID (", ID, "):", cometColor)
             }
 
             if (reportNum) {
@@ -75,7 +72,7 @@ const getFireballs = async (url) => {
 
     // Wait for all promises to resolve
     await Promise.all(promises);
-
+    console.log("All data collected!")
     return data;
 };
 

@@ -21,8 +21,8 @@ jobs:
           node-version: '16' # Use the Node.js version you use locally
 
       # Step 3: Install dependencies
-      #- name: Install dependencies
-      #  run: npm install
+      - name: Install dependencies
+        run: npm install
 
       # Step 4: Run the scraper script
       - name: Run scraper

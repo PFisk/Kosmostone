@@ -64,7 +64,8 @@ const getFireballs = async (url) => {
                     concurrentSoundPositive: cSoundPositive,
                     concurrentSoundNegative: cSoundNegative,
                     fragmentationPositive: fragPositive,
-                    fragmentationNegative: fragNagative
+                    fragmentationNegative: fragNagative,
+                    timeSinceLastEntry: null
                 });
             }
         })());
@@ -142,9 +143,45 @@ async function getColorData(url) {
 const scrape = async () => {
     const data = await getFireballs(page);
 
-    fs.writeFile('./data/fireballs.json', JSON.stringify(data), "utf-8", function(err) { console.log(err) })
+    // Sort fireballs by UTDate to calculate timeSinceLastEntry
+    data.fireballs.sort((a, b) => new Date(a.UTDate) - new Date(b.UTDate));
 
-    console.log("All done!")
+    let previousTimestamp = null;
+
+    for (const entry of data.fireballs) {
+        const currentTimestamp = new Date(entry.UTDate).getTime();
+
+        if (previousTimestamp !== null) {
+            entry.timeSinceLastEntry = Math.floor((currentTimestamp - previousTimestamp) / 1000);
+        } else {
+            entry.timeSinceLastEntry = null;
+        }
+
+        previousTimestamp = currentTimestamp;
+    }
+
+    // Load existing fireballs
+    let existingData = { fireballs: [] };
+    if (fs.existsSync('./data/fireballs-full.json')) {
+        const fileContent = fs.readFileSync('./data/fireballs-full.json', 'utf-8');
+        existingData = JSON.parse(fileContent);
+    }
+
+    const existingIDs = new Set(existingData.fireballs.map(entry => entry.eventID));
+
+    const newFireballs = data.fireballs.filter(entry => !existingIDs.has(entry.eventID));
+
+    if (newFireballs.length > 0) {
+        fs.writeFileSync('./data/fireballs-new.json', JSON.stringify({ fireballs: newFireballs }, null, 2), 'utf-8');
+        console.log(`${newFireballs.length} new fireballs found and saved to fireballs-new.json`);
+    } else {
+        console.log("No new fireballs found.");
+        fs.writeFileSync('./data/fireballs-new.json', JSON.stringify({ fireballs: [] }, null, 2), 'utf-8');
+    }
+
+    fs.writeFileSync('./data/fireballs-full.json', JSON.stringify(data, null, 2), 'utf-8');
+
+    console.log("All done!");
 }
 
 scrape()

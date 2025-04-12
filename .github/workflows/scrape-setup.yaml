@@ -33,6 +33,7 @@ jobs:
         run: |
           git config --global user.name "PFisk"
           git config --global user.email "pfisk@users.noreply.github.com"
-          git add data/fireballs.json
+          git add data/fireballs-new.json
+          git add data/fireballs-full.json
           git commit -m "Update fireball data!" || echo "No changes to commit"
           git push origin || echo "No changes to commit"

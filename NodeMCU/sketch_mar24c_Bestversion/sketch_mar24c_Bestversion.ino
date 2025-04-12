@@ -3,6 +3,7 @@
 #include <ArduinoJson.h>
 #include <FastLED.h>
 #include <WiFiClientSecure.h>
+#include "config.h"  // File referencing wifi credentials
 
 #define FASTLED_ESP8266_RAW_PIN_ORDER  
 #define LED_PIN     D5          
@@ -17,8 +18,9 @@ struct ExtractedColor {
     String inParens;
 };
 
-const char* ssid = "";
-const char* password = "";
+
+// const char* ssid = "";
+// const char* password = "";
 const char* jsonURL = "https://raw.githubusercontent.com/Kentswegge/Kosmotest/refs/heads/main/fireballs.json";
 const char* colorKeyURL = "https://raw.githubusercontent.com/Kentswegge/Kosmotest/refs/heads/main/color%20keys.json";
 
@@ -29,7 +31,9 @@ void fetchColorKeys();
 
 void setup() {
   Serial.begin(115200);
-  WiFi.begin(ssid, password);
+  
+  // ✅ Now this will work because the macros are properly defined
+  WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
 
   pinMode(LED_BUILTIN, OUTPUT);
   digitalWrite(LED_BUILTIN, LOW);

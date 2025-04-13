@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2054-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2054",
+      "reportAmount": "2",
+      "UTDate": "2025-04-11 18:52 UT",
+      "country": "BA  IT",
+      "location": "Marche, Republika Srpska",
+      "color": "Light Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 120
+    }
+  ]
 }

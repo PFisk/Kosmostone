@@ -787,18 +787,18 @@
     {
       "eventID": "Event 2065-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2065",
-      "reportAmount": "62",
-      "UTDate": "2025-04-12 03:02 UT",
+      "reportAmount": "92",
+      "UTDate": "2025-04-12 03:15 UT",
       "country": "US",
       "location": "IL, IN, KY, MI, OH, WI",
       "color": "Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "49",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "69",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "50",
-      "fragmentationPositive": "11",
-      "fragmentationNegative": "33",
-      "timeSinceLastEntry": 3360
+      "concurrentSoundNegative": "72",
+      "fragmentationPositive": "18",
+      "fragmentationNegative": "43",
+      "timeSinceLastEntry": 4140
     }
   ]
 }

@@ -1,70 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 1955-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1955",
-      "reportAmount": "2",
-      "UTDate": "2025-04-05 21:32 UT",
-      "country": "DE",
-      "location": "Nordrhein-Westfalen",
-      "color": "Orange gelb rot",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 1934-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1934",
-      "reportAmount": "62",
-      "UTDate": "2025-04-05 22:01 UT",
-      "country": "NL  FR  DE",
-      "location": "Bade-Wurtemberg, Baden-Württemberg, Bayern, Brandenburg, Drenthe, Friesland, Gelderland, Hauts-de-France, Hessen, Niedersachsen, Nordrhein-Westfalen, Overijssel, Rheinland-Pfalz, Sachsen, Sachsen-Anhalt, Thüringen, Utrecht",
-      "color": "Gelb",
-      "delayedSoundPositive": "5",
-      "delayedSoundNegative": "41",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "48",
-      "fragmentationPositive": "13",
-      "fragmentationNegative": "25",
-      "timeSinceLastEntry": 1740
-    },
-    {
-      "eventID": "Event 1936-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1936",
-      "reportAmount": "2",
-      "UTDate": "2025-04-05 23:01 UT",
-      "country": "ES  FR",
-      "location": "Aragon, Occitanie",
-      "color": "Bleu clair",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 3600
-    },
-    {
-      "eventID": "Event 1926-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1926",
-      "reportAmount": "2",
-      "UTDate": "2025-04-06 00:29 UT",
-      "country": "DE",
-      "location": "Nordrhein-Westfalen",
-      "color": "-",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 5280
-    },
-    {
       "eventID": "Event 1938-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1938",
       "reportAmount": "89",
@@ -78,7 +14,7 @@
       "concurrentSoundNegative": "59",
       "fragmentationPositive": "11",
       "fragmentationNegative": "54",
-      "timeSinceLastEntry": 180
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 1942-2025",
@@ -401,6 +337,22 @@
       "timeSinceLastEntry": 12540
     },
     {
+      "eventID": "Event 2019-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2019",
+      "reportAmount": "2",
+      "UTDate": "2025-04-10 17:05 UT",
+      "country": "NZ",
+      "location": "Canterbury, Waikato",
+      "color": "Light Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 31320
+    },
+    {
       "eventID": "Event 2022-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2022",
       "reportAmount": "2",
@@ -414,7 +366,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 39240
+      "timeSinceLastEntry": 7920
     },
     {
       "eventID": "Event 2023-2025",
@@ -799,6 +751,54 @@
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
       "timeSinceLastEntry": 7560
+    },
+    {
+      "eventID": "Event 2088-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2088",
+      "reportAmount": "6",
+      "UTDate": "2025-04-13 06:24 UT",
+      "country": "CA",
+      "location": "British Columbia",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "6",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "6",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 7320
+    },
+    {
+      "eventID": "Event 2091-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2091",
+      "reportAmount": "9",
+      "UTDate": "2025-04-13 08:16 UT",
+      "country": "US",
+      "location": "AL, LA, Louisiana, MO, MS",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "7",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "7",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 6720
+    },
+    {
+      "eventID": "Event 2094-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2094",
+      "reportAmount": "34",
+      "UTDate": "2025-04-13 19:06 UT",
+      "country": "FR",
+      "location": "Bretagne, Centre-Val de Loire, Nouvelle-Aquitaine, Occitanie, Pays de la Loire",
+      "color": "Blanc",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "25",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "27",
+      "fragmentationPositive": "7",
+      "fragmentationNegative": "18",
+      "timeSinceLastEntry": 39000
     }
   ]
 }

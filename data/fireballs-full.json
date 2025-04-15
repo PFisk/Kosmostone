@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 1963-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1963",
-      "reportAmount": "23",
-      "UTDate": "2025-04-06 11:27 UT",
-      "country": "US",
-      "location": "CA, NV",
-      "color": "Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "16",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "16",
-      "fragmentationPositive": "4",
-      "fragmentationNegative": "10",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 1966-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/1966",
       "reportAmount": "3",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "2",
       "fragmentationNegative": "",
-      "timeSinceLastEntry": 33720
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 1968-2025",
@@ -547,7 +531,7 @@
     {
       "eventID": "Event 2077-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2077",
-      "reportAmount": "389",
+      "reportAmount": "392",
       "UTDate": "2025-04-12 19:01 UT",
       "country": "SK  SI  RS  IT  HU  HR  DE  CZ  CH  BA  AT",
       "location": ", Abruzzo, Škofja Loka, Šmarje pri Jelšah, Baden-Württemberg, Basel-Landschaft, Basilicata, Bavaria, Bayern, Bratislavský kraj, Brod-Posavina County, Burgenland, Campania, Domžale, Emilia-Romagna, Federacija Bosne i Hercegovine, Federation of Bosnia and Herzegovina",
@@ -556,23 +540,23 @@
       "delayedSoundNegative": "255",
       "concurrentSoundPositive": "7",
       "concurrentSoundNegative": "255",
-      "fragmentationPositive": "88",
-      "fragmentationNegative": "168",
+      "fragmentationPositive": "89",
+      "fragmentationNegative": "170",
       "timeSinceLastEntry": 34860
     },
     {
       "eventID": "Event 2080-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2080",
-      "reportAmount": "10",
+      "reportAmount": "11",
       "UTDate": "2025-04-12 21:01 UT",
       "country": "DE  CZ  AT",
       "location": "Bayern, Jihočeský kraj, Kärnten, Niederösterreich, Oberösterreich",
       "color": "Dunkelgrün",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "9",
+      "delayedSoundNegative": "10",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "9",
-      "fragmentationPositive": "",
+      "concurrentSoundNegative": "10",
+      "fragmentationPositive": "1",
       "fragmentationNegative": "8",
       "timeSinceLastEntry": 7200
     },
@@ -611,17 +595,17 @@
     {
       "eventID": "Event 2082-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2082",
-      "reportAmount": "14",
+      "reportAmount": "15",
       "UTDate": "2025-04-13 00:54 UT",
       "country": "US",
-      "location": "FL",
+      "location": "FL, Florida",
       "color": "Red",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "12",
+      "delayedSoundNegative": "13",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "12",
+      "concurrentSoundNegative": "13",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "11",
+      "fragmentationNegative": "12",
       "timeSinceLastEntry": 2760
     },
     {
@@ -657,6 +641,22 @@
       "timeSinceLastEntry": 3840
     },
     {
+      "eventID": "Event 2086-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2086",
+      "reportAmount": "2",
+      "UTDate": "2025-04-13 03:55 UT",
+      "country": "US",
+      "location": "New Mexico, NM",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 5940
+    },
+    {
       "eventID": "Event 2085-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2085",
       "reportAmount": "3",
@@ -670,7 +670,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 7560
+      "timeSinceLastEntry": 1620
     },
     {
       "eventID": "Event 2088-2025",
@@ -707,18 +707,18 @@
     {
       "eventID": "Event 2094-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2094",
-      "reportAmount": "41",
-      "UTDate": "2025-04-13 19:07 UT",
+      "reportAmount": "42",
+      "UTDate": "2025-04-13 19:06 UT",
       "country": "FR",
       "location": "Bretagne, Centre-Val de Loire, Nouvelle-Aquitaine, Occitanie, Pays de la Loire",
       "color": "Blanc",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "31",
+      "delayedSoundNegative": "32",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "33",
+      "concurrentSoundNegative": "34",
       "fragmentationPositive": "10",
-      "fragmentationNegative": "20",
-      "timeSinceLastEntry": 39060
+      "fragmentationNegative": "21",
+      "timeSinceLastEntry": 39000
     },
     {
       "eventID": "Event 2098-2025",
@@ -734,7 +734,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "",
-      "timeSinceLastEntry": 21360
+      "timeSinceLastEntry": 21420
     },
     {
       "eventID": "Event 2101-2025",

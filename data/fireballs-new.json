@@ -1,20 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 2143-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2143",
-      "reportAmount": "2",
-      "UTDate": "2025-04-16 19:27 UT",
-      "country": "DE  NL",
-      "location": "Drenthe, Nordrhein-Westfalen",
-      "color": "Oranje",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 55740
-    }
-  ]
+  "fireballs": []
 }

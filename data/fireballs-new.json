@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2145-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2145",
+      "reportAmount": "2",
+      "UTDate": "2025-04-14 23:02 UT",
+      "country": "AR",
+      "location": "Córdoba Province, Mendoza",
+      "color": "Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 1260
+    }
+  ]
 }

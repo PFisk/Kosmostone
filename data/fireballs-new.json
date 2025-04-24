@@ -1,20 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 2266-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2266",
-      "reportAmount": "39",
-      "UTDate": "2025-04-23 22:05 UT",
-      "country": "BR",
-      "location": "Paraná, Rio Grande do Sul, Santa Catarina, São Paulo, State of Santa Catarina",
-      "color": "Verde",
-      "delayedSoundPositive": "8",
-      "delayedSoundNegative": "25",
-      "concurrentSoundPositive": "6",
-      "concurrentSoundNegative": "26",
-      "fragmentationPositive": "13",
-      "fragmentationNegative": "16",
-      "timeSinceLastEntry": 7140
-    }
-  ]
+  "fireballs": []
 }

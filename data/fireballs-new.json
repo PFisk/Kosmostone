@@ -1,20 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 2286-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2286",
-      "reportAmount": "2",
-      "UTDate": "2025-04-23 23:20 UT",
-      "country": "BR",
-      "location": "Rio Grande do Sul",
-      "color": "Verde",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 4620
-    }
-  ]
+  "fireballs": []
 }

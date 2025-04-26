@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 2109-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2109",
-      "reportAmount": "5",
-      "UTDate": "2025-04-14 09:26 UT",
-      "country": "US",
-      "location": "AL, LA, MS",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 2111-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2111",
-      "reportAmount": "4",
-      "UTDate": "2025-04-14 20:57 UT",
-      "country": "NL  DK",
-      "location": ", Flevoland, Gelderland, Overijssel",
-      "color": "Wit",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 41460
-    },
-    {
       "eventID": "Event 2112-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2112",
       "reportAmount": "18",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "17",
       "fragmentationPositive": "2",
       "fragmentationNegative": "10",
-      "timeSinceLastEntry": 6240
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 2145-2025",
@@ -799,6 +767,38 @@
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
       "timeSinceLastEntry": 26700
+    },
+    {
+      "eventID": "Event 2292-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2292",
+      "reportAmount": "2",
+      "UTDate": "2025-04-25 08:15 UT",
+      "country": "NZ",
+      "location": "Canterbury, Wellington",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 22680
+    },
+    {
+      "eventID": "Event 2293-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2293",
+      "reportAmount": "3",
+      "UTDate": "2025-04-25 21:26 UT",
+      "country": "FR  CH",
+      "location": "Nouvelle-Aquitaine, Occitanie, Vaud",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 47460
     }
   ]
 }

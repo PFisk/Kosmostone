@@ -595,18 +595,18 @@
     {
       "eventID": "Event 2396-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2396",
-      "reportAmount": "2",
-      "UTDate": "2025-05-01 00:55 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-05-01 00:52 UT",
       "country": "FR",
-      "location": "Auvergne-Rhône-Alpes",
-      "color": "Light Blue",
+      "location": "Auvergne-Rhône-Alpes, Bourgogne-Franche-Comté",
+      "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 12240
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 12060
     },
     {
       "eventID": "Event 2397-2025",
@@ -622,7 +622,7 @@
       "concurrentSoundNegative": "16",
       "fragmentationPositive": "4",
       "fragmentationNegative": "10",
-      "timeSinceLastEntry": 1260
+      "timeSinceLastEntry": 1440
     },
     {
       "eventID": "Event 2399-2025",
@@ -755,18 +755,18 @@
     {
       "eventID": "Event 2439-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2439",
-      "reportAmount": "5",
-      "UTDate": "2025-05-03 15:31 UT",
+      "reportAmount": "10",
+      "UTDate": "2025-05-03 15:32 UT",
       "country": "US",
-      "location": "Montana, Utah, Wyoming",
-      "color": "Orange",
+      "location": "Idaho, Montana, North Dakota, Utah, Wyoming",
+      "color": "Yellow",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
+      "delayedSoundNegative": "8",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 23940
+      "concurrentSoundNegative": "8",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 24000
     },
     {
       "eventID": "Event 2441-2025",
@@ -782,7 +782,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 31860
+      "timeSinceLastEntry": 31800
     },
     {
       "eventID": "Event 2443-2025",

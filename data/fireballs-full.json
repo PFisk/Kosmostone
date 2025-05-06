@@ -691,18 +691,18 @@
     {
       "eventID": "Event 2443-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2443",
-      "reportAmount": "112",
-      "UTDate": "2025-05-04 03:31 UT",
+      "reportAmount": "117",
+      "UTDate": "2025-05-04 03:30 UT",
       "country": "US  CA",
       "location": ", Alberta, Colorado, Idaho, Montana, Oregon, Utah, Washington, Wyoming",
       "color": "Green",
-      "delayedSoundPositive": "4",
-      "delayedSoundNegative": "84",
+      "delayedSoundPositive": "5",
+      "delayedSoundNegative": "88",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "85",
-      "fragmentationPositive": "24",
-      "fragmentationNegative": "54",
-      "timeSinceLastEntry": 2880
+      "concurrentSoundNegative": "90",
+      "fragmentationPositive": "27",
+      "fragmentationNegative": "55",
+      "timeSinceLastEntry": 2820
     },
     {
       "eventID": "Event 2448-2025",
@@ -718,7 +718,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "1",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 6120
+      "timeSinceLastEntry": 6180
     },
     {
       "eventID": "Event 2450-2025",
@@ -771,18 +771,18 @@
     {
       "eventID": "Event 2469-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2469",
-      "reportAmount": "4",
-      "UTDate": "2025-05-05 07:22 UT",
+      "reportAmount": "5",
+      "UTDate": "2025-05-05 07:23 UT",
       "country": "US",
-      "location": "California",
-      "color": "Light Yellow",
+      "location": "California, Oregon",
+      "color": "Green",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "2",
-      "fragmentationPositive": "2",
+      "fragmentationPositive": "3",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 8160
+      "timeSinceLastEntry": 8220
     },
     {
       "eventID": "Event 2470-2025",
@@ -798,7 +798,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 1200
+      "timeSinceLastEntry": 1140
     }
   ]
 }

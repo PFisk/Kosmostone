@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2490-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2490",
+      "reportAmount": "2",
+      "UTDate": "2025-05-06 04:30 UT",
+      "country": "BR",
+      "location": "Maranhão, Pará",
+      "color": "Branco",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 74880
+    }
+  ]
 }

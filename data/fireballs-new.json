@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2519-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2519",
+      "reportAmount": "17",
+      "UTDate": "2025-05-09 03:10 UT",
+      "country": "US",
+      "location": "Arizona, California, Nevada",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "15",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "14",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "12",
+      "timeSinceLastEntry": 81540
+    }
+  ]
 }

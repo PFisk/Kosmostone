@@ -1,3 +1,36 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2419-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2419",
+      "reportAmount": "2",
+      "UTDate": "2025-05-02 01:46 UT",
+      "country": "MX",
+      "location": "Quintana Roo",
+      "color": "Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 17640
+    },
+    {
+      "eventID": "Event 2508-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2508",
+      "reportAmount": "8",
+      "UTDate": "2025-05-08 04:31 UT",
+      "country": "US",
+      "location": "Arizona, California, Nevada, Utah",
+      "color": "Yellow",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "5",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "5",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 15960
+    }
+  ]
 }

@@ -787,18 +787,18 @@
     {
       "eventID": "Event 2547-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2547",
-      "reportAmount": "2",
-      "UTDate": "2025-05-10 08:18 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-05-10 08:15 UT",
       "country": "US",
-      "location": "OH, West Virginia",
+      "location": "OH, VA, West Virginia",
       "color": "Blue",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "1",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 14280
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 14100
     }
   ]
 }

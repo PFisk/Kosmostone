@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 2615-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2615",
-      "reportAmount": "2",
-      "UTDate": "2025-05-13 19:57 UT",
-      "country": "IT  FR",
-      "location": "Provence-Alpes-Côte d'Azur, Toscana",
-      "color": "Verde smeraldo",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 43800
-    },
-    {
-      "eventID": "Event 2619-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2619",
-      "reportAmount": "30",
-      "UTDate": "2025-05-14 01:09 UT",
-      "country": "US",
-      "location": "NC, North Carolina, Virginia",
-      "color": "Orange",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "22",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "22",
-      "fragmentationPositive": "4",
-      "fragmentationNegative": "17",
-      "timeSinceLastEntry": 18720
-    }
-  ]
+  "fireballs": []
 }

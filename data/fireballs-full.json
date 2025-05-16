@@ -387,18 +387,18 @@
     {
       "eventID": "Event 2558-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2558",
-      "reportAmount": "3",
-      "UTDate": "2025-05-10 22:08 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-05-10 22:04 UT",
       "country": "AU",
       "location": "Western Australia",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "1",
+      "concurrentSoundNegative": "4",
+      "fragmentationPositive": "2",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 2340
+      "timeSinceLastEntry": 2100
     },
     {
       "eventID": "Event 2557-2025",
@@ -414,7 +414,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 720
+      "timeSinceLastEntry": 960
     },
     {
       "eventID": "Event 2559-2025",

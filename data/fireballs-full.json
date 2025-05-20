@@ -499,17 +499,17 @@
     {
       "eventID": "Event 2676-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2676",
-      "reportAmount": "67",
+      "reportAmount": "68",
       "UTDate": "2025-05-16 20:38 UT",
       "country": "GB",
       "location": "England, Northern Ireland, Scotland",
       "color": "Orange",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "54",
+      "delayedSoundNegative": "55",
       "concurrentSoundPositive": "2",
-      "concurrentSoundNegative": "55",
+      "concurrentSoundNegative": "56",
       "fragmentationPositive": "15",
-      "fragmentationNegative": "35",
+      "fragmentationNegative": "36",
       "timeSinceLastEntry": 18780
     },
     {
@@ -611,18 +611,18 @@
     {
       "eventID": "Event 2699-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2699",
-      "reportAmount": "55",
-      "UTDate": "2025-05-17 21:32 UT",
+      "reportAmount": "56",
+      "UTDate": "2025-05-17 21:31 UT",
       "country": "GB",
       "location": "England, Northern Ireland, Scotland, Wales",
       "color": "White",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "45",
+      "delayedSoundNegative": "46",
       "concurrentSoundPositive": "2",
-      "concurrentSoundNegative": "44",
-      "fragmentationPositive": "11",
+      "concurrentSoundNegative": "45",
+      "fragmentationPositive": "12",
       "fragmentationNegative": "27",
-      "timeSinceLastEntry": 8100
+      "timeSinceLastEntry": 8040
     },
     {
       "eventID": "Event 2703-2025",
@@ -638,23 +638,23 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 9240
+      "timeSinceLastEntry": 9300
     },
     {
       "eventID": "Event 2704-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2704",
-      "reportAmount": "2",
-      "UTDate": "2025-05-18 02:21 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-05-18 02:14 UT",
       "country": "US",
-      "location": "Kentucky, Tennessee",
+      "location": "Kentucky, Ohio, Tennessee",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
+      "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 8100
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 7680
     },
     {
       "eventID": "Event 2712-2025",
@@ -670,7 +670,7 @@
       "concurrentSoundNegative": "10",
       "fragmentationPositive": "1",
       "fragmentationNegative": "9",
-      "timeSinceLastEntry": 16560
+      "timeSinceLastEntry": 16980
     },
     {
       "eventID": "Event 2719-2025",
@@ -755,18 +755,18 @@
     {
       "eventID": "Event 2732-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2732",
-      "reportAmount": "47",
-      "UTDate": "2025-05-19 19:58 UT",
-      "country": "IT  DE  AT",
-      "location": "Bayern, Campania, Emilia-Romagna, Kärnten, Lazio, Lombardia, Marche, Niederösterreich, Tirol, Toscana, Veneto",
+      "reportAmount": "55",
+      "UTDate": "2025-05-19 19:57 UT",
+      "country": "IT  HR  DE  AT",
+      "location": "Bayern, Campania, Emilia-Romagna, Istarska županija, Kärnten, Lazio, Lombardia, Marche, Niederösterreich, Tirol, Toscana, Trentino-Alto Adige, Veneto",
       "color": "Blu elettrico",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "35",
+      "delayedSoundNegative": "42",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "35",
+      "concurrentSoundNegative": "41",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "42",
-      "timeSinceLastEntry": 38700
+      "fragmentationNegative": "49",
+      "timeSinceLastEntry": 38640
     },
     {
       "eventID": "Event 2737-2025",
@@ -782,7 +782,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 18240
+      "timeSinceLastEntry": 18300
     },
     {
       "eventID": "Event 2740-2025",

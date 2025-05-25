@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2797-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2797",
+      "reportAmount": "2",
+      "UTDate": "2025-05-23 21:10 UT",
+      "country": "TR",
+      "location": "İstanbul, Tekirdağ",
+      "color": "Light Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 54720
+    }
+  ]
 }

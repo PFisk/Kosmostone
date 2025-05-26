@@ -499,17 +499,17 @@
     {
       "eventID": "Event 2798-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2798",
-      "reportAmount": "105",
+      "reportAmount": "111",
       "UTDate": "2025-05-23 22:01 UT",
       "country": "NL  LU  GB  FR  DE  BE",
       "location": ", Auvergne-Rhône-Alpes, Île-de-France, Baden-Württemberg, Bretagne, Centre-Val de Loire, England, Esch-sur-Alzette, Gelderland, Grand Est, Hauts-de-France, Limburg, Mersch, Noord-Brabant, Noord-Holland, Nordrhein-Westfalen, Normandie, Nouvelle-Aquitaine, Pays de la Loir",
       "color": "Blanc",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "80",
+      "delayedSoundPositive": "2",
+      "delayedSoundNegative": "85",
       "concurrentSoundPositive": "3",
-      "concurrentSoundNegative": "77",
+      "concurrentSoundNegative": "83",
       "fragmentationPositive": "9",
-      "fragmentationNegative": "69",
+      "fragmentationNegative": "74",
       "timeSinceLastEntry": 3060
     },
     {

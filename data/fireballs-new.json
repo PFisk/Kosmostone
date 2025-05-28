@@ -1,3 +1,52 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2861-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2861",
+      "reportAmount": "2",
+      "UTDate": "2025-05-27 06:39 UT",
+      "country": "CA  US",
+      "location": "Manitoba, North Dakota",
+      "color": "Bright white",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 2400
+    },
+    {
+      "eventID": "Event 2870-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2870",
+      "reportAmount": "2",
+      "UTDate": "2025-05-27 20:20 UT",
+      "country": "CH  FR",
+      "location": "Auvergne-Rhône-Alpes, Vaud",
+      "color": "Bleu clair",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 38220
+    },
+    {
+      "eventID": "Event 2872-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2872",
+      "reportAmount": "4",
+      "UTDate": "2025-05-27 22:28 UT",
+      "country": "MC  IT",
+      "location": ", Piemonte, Toscana",
+      "color": "Bianco",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "4",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "4",
+      "fragmentationPositive": "3",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 7680
+    }
+  ]
 }

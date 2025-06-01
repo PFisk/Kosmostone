@@ -787,18 +787,18 @@
     {
       "eventID": "Event 2950-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2950",
-      "reportAmount": "2",
-      "UTDate": "2025-06-01 02:55 UT",
+      "reportAmount": "16",
+      "UTDate": "2025-06-01 03:14 UT",
       "country": "US",
       "location": "Utah",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "16",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 720
+      "concurrentSoundNegative": "15",
+      "fragmentationPositive": "9",
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 1860
     }
   ]
 }

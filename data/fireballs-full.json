@@ -515,18 +515,18 @@
     {
       "eventID": "Event 2917-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2917",
-      "reportAmount": "6",
-      "UTDate": "2025-05-30 09:27 UT",
+      "reportAmount": "7",
+      "UTDate": "2025-05-30 09:30 UT",
       "country": "NZ",
       "location": "Auckland, Waikato Region",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
+      "delayedSoundNegative": "6",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
+      "concurrentSoundNegative": "6",
       "fragmentationPositive": "",
-      "fragmentationNegative": "6",
-      "timeSinceLastEntry": 13560
+      "fragmentationNegative": "7",
+      "timeSinceLastEntry": 13740
     },
     {
       "eventID": "Event 2924-2025",
@@ -542,7 +542,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 45300
+      "timeSinceLastEntry": 45120
     },
     {
       "eventID": "Event 2925-2025",
@@ -755,17 +755,17 @@
     {
       "eventID": "Event 2957-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2957",
-      "reportAmount": "6",
+      "reportAmount": "7",
       "UTDate": "2025-06-01 05:17 UT",
       "country": "US",
       "location": "California",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
+      "delayedSoundNegative": "5",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
+      "concurrentSoundNegative": "5",
       "fragmentationPositive": "",
-      "fragmentationNegative": "3",
+      "fragmentationNegative": "4",
       "timeSinceLastEntry": 1800
     },
     {

@@ -1,3 +1,68 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2978-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2978",
+      "reportAmount": "2",
+      "UTDate": "2025-06-02 01:55 UT",
+      "country": "BR",
+      "location": "Minas Gerais",
+      "color": "Azul",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 21900
+    },
+    {
+      "eventID": "Event 2972-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2972",
+      "reportAmount": "2",
+      "UTDate": "2025-06-02 06:12 UT",
+      "country": "US",
+      "location": "Montana, Oregon",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 15420
+    },
+    {
+      "eventID": "Event 2976-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2976",
+      "reportAmount": "24",
+      "UTDate": "2025-06-02 22:19 UT",
+      "country": "NL  DE  BE",
+      "location": "Friesland, Groningen, Hessen, Limburg, Nordrhein-Westfalen, North Rhine-Westphalia, Région wallonne, Rheinland-Pfalz, Saarland, Vlaanderen, Waals Gewest",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "21",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "20",
+      "fragmentationPositive": "10",
+      "fragmentationNegative": "8",
+      "timeSinceLastEntry": 58020
+    },
+    {
+      "eventID": "Event 2980-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2980",
+      "reportAmount": "14",
+      "UTDate": "2025-06-02 22:29 UT",
+      "country": "GB",
+      "location": "England, Wales",
+      "color": "Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "11",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "11",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "9",
+      "timeSinceLastEntry": 600
+    }
+  ]
 }

@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 2818-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2818",
-      "reportAmount": "2",
-      "UTDate": "2025-05-24 23:18 UT",
-      "country": "PT",
-      "location": "Lisboa, Porto",
-      "color": "Light Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 2825-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2825",
       "reportAmount": "140",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "108",
       "fragmentationPositive": "14",
       "fragmentationNegative": "91",
-      "timeSinceLastEntry": 22680
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 2826-2025",
@@ -787,18 +771,34 @@
     {
       "eventID": "Event 2983-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2983",
-      "reportAmount": "79",
+      "reportAmount": "80",
       "UTDate": "2025-06-03 00:07 UT",
       "country": "US",
       "location": "Connecticut, MA, Maine, Massachusetts, New Hampshire, New Jersey, Rhode Island",
-      "color": "Orange",
+      "color": "White",
       "delayedSoundPositive": "2",
-      "delayedSoundNegative": "61",
+      "delayedSoundNegative": "62",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "63",
+      "concurrentSoundNegative": "64",
       "fragmentationPositive": "7",
       "fragmentationNegative": "43",
       "timeSinceLastEntry": 5940
+    },
+    {
+      "eventID": "Event 2984-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2984",
+      "reportAmount": "9",
+      "UTDate": "2025-06-03 02:31 UT",
+      "country": "US",
+      "location": "Arkansas, Louisiana, Oklahoma, Texas",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "8",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "8",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "7",
+      "timeSinceLastEntry": 8640
     }
   ]
 }

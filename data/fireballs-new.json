@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 2987-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2987",
+      "reportAmount": "3",
+      "UTDate": "2025-06-03 00:22 UT",
+      "country": "BR",
+      "location": "Maranhão",
+      "color": "Amarelo claro",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 900
+    }
+  ]
 }

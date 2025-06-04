@@ -691,18 +691,18 @@
     {
       "eventID": "Event 2986-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2986",
-      "reportAmount": "5",
-      "UTDate": "2025-06-02 22:10 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-06-02 22:12 UT",
       "country": "BR",
       "location": "Maranhão, Piauí",
-      "color": "Azul",
+      "color": "Verde claro",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "1",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "1",
       "fragmentationPositive": "2",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 58320
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 58440
     },
     {
       "eventID": "Event 2976-2025",
@@ -718,7 +718,7 @@
       "concurrentSoundNegative": "26",
       "fragmentationPositive": "14",
       "fragmentationNegative": "11",
-      "timeSinceLastEntry": 540
+      "timeSinceLastEntry": 420
     },
     {
       "eventID": "Event 2980-2025",

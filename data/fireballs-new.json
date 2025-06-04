@@ -1,20 +1,36 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 2963-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2963",
-      "reportAmount": "2",
-      "UTDate": "2025-06-01 22:04 UT",
-      "country": "BE  FR",
-      "location": "Île-de-France, Région wallonne",
-      "color": "Orange",
+      "eventID": "Event 3000-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3000",
+      "reportAmount": "10",
+      "UTDate": "2025-06-03 05:25 UT",
+      "country": "US  CA",
+      "location": "Alberta, British Columbia, ID, MT, WA",
+      "color": "Yellow",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "9",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
+      "concurrentSoundNegative": "8",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 8040
+      "fragmentationNegative": "7",
+      "timeSinceLastEntry": 10380
+    },
+    {
+      "eventID": "Event 3001-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3001",
+      "reportAmount": "11",
+      "UTDate": "2025-06-03 06:00 UT",
+      "country": "US  CA",
+      "location": "NH, NY, Ontario, Québec",
+      "color": "Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "8",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "9",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 2100
     }
   ]
 }

@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3049-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3049",
+      "reportAmount": "72",
+      "UTDate": "2025-06-07 04:59 UT",
+      "country": "US  CA",
+      "location": "British Columbia, OR, WA, Washington",
+      "color": "White",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "55",
+      "concurrentSoundPositive": "2",
+      "concurrentSoundNegative": "55",
+      "fragmentationPositive": "7",
+      "fragmentationNegative": "42",
+      "timeSinceLastEntry": 127980
+    }
+  ]
 }

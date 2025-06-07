@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 2851-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2851",
-      "reportAmount": "11",
-      "UTDate": "2025-05-26 19:44 UT",
-      "country": "IT  FR",
-      "location": "Auvergne-Rhône-Alpes, Lombardia, Occitanie, Piemonte, Provence-Alpes-Côte d'Azur",
-      "color": "Vert",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "9",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "9",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "8",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 2854-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2854",
       "reportAmount": "3",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "2",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 9420
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 2857-2025",
@@ -163,18 +147,18 @@
     {
       "eventID": "Event 2902-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2902",
-      "reportAmount": "3",
-      "UTDate": "2025-05-29 21:37 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-05-29 21:35 UT",
       "country": "NL",
-      "location": "Gelderland, Groningen, Noord-Holland",
+      "location": "Gelderland, Groningen, Noord-Brabant, Noord-Holland",
       "color": "Licht geel",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "2",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 38460
+      "timeSinceLastEntry": 38340
     },
     {
       "eventID": "Event 2904-2025",
@@ -190,7 +174,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 5040
+      "timeSinceLastEntry": 5160
     },
     {
       "eventID": "Event 2905-2025",
@@ -627,33 +611,33 @@
     {
       "eventID": "Event 2976-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2976",
-      "reportAmount": "31",
-      "UTDate": "2025-06-02 22:19 UT",
-      "country": "NL  GB  DE  BE",
-      "location": "England, Friesland, Groningen, Hessen, Limburg, Nordrhein-Westfalen, North Rhine-Westphalia, Région wallonne, Rheinland-Pfalz, Saarland, Vlaanderen, Waals Gewest, Zuid-Holland",
+      "reportAmount": "30",
+      "UTDate": "2025-06-02 22:18 UT",
+      "country": "NL  DE  BE",
+      "location": "Friesland, Groningen, Hessen, Limburg, Nordrhein-Westfalen, North Rhine-Westphalia, Région wallonne, Rheinland-Pfalz, Saarland, Vlaanderen, Waals Gewest, Zuid-Holland",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "26",
+      "delayedSoundNegative": "25",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "26",
-      "fragmentationPositive": "14",
+      "concurrentSoundNegative": "25",
+      "fragmentationPositive": "13",
       "fragmentationNegative": "11",
-      "timeSinceLastEntry": 540
+      "timeSinceLastEntry": 480
     },
     {
       "eventID": "Event 2980-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2980",
-      "reportAmount": "22",
-      "UTDate": "2025-06-02 22:28 UT",
-      "country": "GB",
-      "location": "England, Wales",
+      "reportAmount": "24",
+      "UTDate": "2025-06-02 22:27 UT",
+      "country": "NL  GB",
+      "location": "England, Wales, Zuid-Holland",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "17",
+      "delayedSoundNegative": "18",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "18",
-      "fragmentationPositive": "3",
-      "fragmentationNegative": "16",
+      "concurrentSoundNegative": "19",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "17",
       "timeSinceLastEntry": 540
     },
     {
@@ -670,7 +654,7 @@
       "concurrentSoundNegative": "82",
       "fragmentationPositive": "7",
       "fragmentationNegative": "55",
-      "timeSinceLastEntry": 5940
+      "timeSinceLastEntry": 6000
     },
     {
       "eventID": "Event 2984-2025",
@@ -707,15 +691,15 @@
     {
       "eventID": "Event 3001-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3001",
-      "reportAmount": "14",
+      "reportAmount": "16",
       "UTDate": "2025-06-03 05:59 UT",
       "country": "US  CA",
-      "location": "New Hampshire, NH, NY, Ontario, Québec, Quebec",
+      "location": "Massachusetts, New Hampshire, NH, NY, Ontario, Québec, Quebec",
       "color": "Light Blue",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "10",
+      "delayedSoundNegative": "11",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "11",
+      "concurrentSoundNegative": "12",
       "fragmentationPositive": "3",
       "fragmentationNegative": "4",
       "timeSinceLastEntry": 2040
@@ -799,6 +783,22 @@
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
       "timeSinceLastEntry": 9060
+    },
+    {
+      "eventID": "Event 3038-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3038",
+      "reportAmount": "6",
+      "UTDate": "2025-06-05 17:26 UT",
+      "country": "UZ",
+      "location": "Andijan region, Fergana Region, Namangan Region, Наманганская область",
+      "color": "Orange",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "5",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 114600
     }
   ]
 }

@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 3107-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3107",
-      "reportAmount": "7",
-      "UTDate": "2025-06-10 01:28 UT",
-      "country": "US",
-      "location": "Maryland, Virginia, West Virginia",
-      "color": "Light Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 30780
-    },
-    {
-      "eventID": "Event 3109-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3109",
-      "reportAmount": "4",
-      "UTDate": "2025-06-10 02:21 UT",
-      "country": "US",
-      "location": "Illinois, Wisconsin",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 3180
-    }
-  ]
+  "fireballs": []
 }

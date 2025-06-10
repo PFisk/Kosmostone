@@ -627,17 +627,17 @@
     {
       "eventID": "Event 3049-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3049",
-      "reportAmount": "88",
+      "reportAmount": "89",
       "UTDate": "2025-06-07 04:59 UT",
       "country": "US  CA",
       "location": "British Columbia, OR, WA, Washington",
       "color": "White",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "69",
+      "delayedSoundNegative": "70",
       "concurrentSoundPositive": "2",
-      "concurrentSoundNegative": "69",
+      "concurrentSoundNegative": "70",
       "fragmentationPositive": "8",
-      "fragmentationNegative": "52",
+      "fragmentationNegative": "53",
       "timeSinceLastEntry": 127980
     },
     {
@@ -787,18 +787,18 @@
     {
       "eventID": "Event 3102-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3102",
-      "reportAmount": "4",
-      "UTDate": "2025-06-09 17:04 UT",
+      "reportAmount": "5",
+      "UTDate": "2025-06-09 16:54 UT",
       "country": "IN",
       "location": "Madhya Pradesh, Maharashtra",
-      "color": "Blue",
+      "color": "Light Blue",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
+      "delayedSoundNegative": "5",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
+      "concurrentSoundNegative": "5",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 40440
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 39840
     }
   ]
 }

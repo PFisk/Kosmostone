@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3097-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3097",
+      "reportAmount": "2",
+      "UTDate": "2025-06-09 06:58 UT",
+      "country": "US",
+      "location": "Arizona",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 4800
+    }
+  ]
 }

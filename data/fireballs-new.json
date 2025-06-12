@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 3129-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3129",
-      "reportAmount": "2",
-      "UTDate": "2025-06-11 17:19 UT",
-      "country": "IN",
-      "location": "Bihar",
-      "color": "Dark Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 62640
-    },
-    {
-      "eventID": "Event 3130-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3130",
-      "reportAmount": "2",
-      "UTDate": "2025-06-11 20:47 UT",
-      "country": "IT",
-      "location": "Sicilia",
-      "color": "Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 12480
-    }
-  ]
+  "fireballs": []
 }

@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3163-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3163",
+      "reportAmount": "2",
+      "UTDate": "2025-06-14 01:53 UT",
+      "country": "EG",
+      "location": "Al-Sharqia Governorate, Cairo Governorate",
+      "color": "White with blue outline",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 14640
+    }
+  ]
 }

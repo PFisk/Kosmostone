@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 2980-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2980",
-      "reportAmount": "24",
-      "UTDate": "2025-06-02 22:27 UT",
-      "country": "NL  GB",
-      "location": "England, Wales, Zuid-Holland",
-      "color": "Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "18",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "19",
-      "fragmentationPositive": "4",
-      "fragmentationNegative": "17",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 2983-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/2983",
       "reportAmount": "102",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "82",
       "fragmentationPositive": "7",
       "fragmentationNegative": "55",
-      "timeSinceLastEntry": 6000
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 2984-2025",
@@ -563,18 +547,18 @@
     {
       "eventID": "Event 3139-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3139",
-      "reportAmount": "11",
-      "UTDate": "2025-06-12 20:52 UT",
+      "reportAmount": "12",
+      "UTDate": "2025-06-12 20:53 UT",
       "country": "DE  AT",
-      "location": "Bayern, Niederösterreich, Oberösterreich, Steiermark, Styria, Tirol, Wien",
+      "location": "Bayern, Burgenland, Niederösterreich, Oberösterreich, Steiermark, Styria, Tirol, Wien",
       "color": "Weiß",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "10",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "10",
       "fragmentationPositive": "",
-      "fragmentationNegative": "7",
-      "timeSinceLastEntry": 13500
+      "fragmentationNegative": "8",
+      "timeSinceLastEntry": 13560
     },
     {
       "eventID": "Event 3141-2025",
@@ -590,7 +574,7 @@
       "concurrentSoundNegative": "10",
       "fragmentationPositive": "1",
       "fragmentationNegative": "9",
-      "timeSinceLastEntry": 21780
+      "timeSinceLastEntry": 21720
     },
     {
       "eventID": "Event 3147-2025",
@@ -723,34 +707,34 @@
     {
       "eventID": "Event 3186-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3186",
-      "reportAmount": "4",
-      "UTDate": "2025-06-15 04:18 UT",
+      "reportAmount": "6",
+      "UTDate": "2025-06-15 04:25 UT",
       "country": "US",
       "location": "California",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
+      "delayedSoundNegative": "5",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
+      "concurrentSoundNegative": "5",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 9120
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 9540
     },
     {
       "eventID": "Event 3185-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3185",
-      "reportAmount": "4",
-      "UTDate": "2025-06-15 04:28 UT",
+      "reportAmount": "5",
+      "UTDate": "2025-06-15 04:29 UT",
       "country": "US",
       "location": "Indiana, Kentucky, Tennessee",
-      "color": "Dark Green",
+      "color": "Green",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 600
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 240
     },
     {
       "eventID": "Event 3188-2025",
@@ -766,7 +750,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 420
+      "timeSinceLastEntry": 360
     },
     {
       "eventID": "Event 3191-2025",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "1",
       "fragmentationNegative": "10",
       "timeSinceLastEntry": 7320
+    },
+    {
+      "eventID": "Event 3197-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3197",
+      "reportAmount": "2",
+      "UTDate": "2025-06-16 01:35 UT",
+      "country": "IT  RS",
+      "location": ", Abruzzo",
+      "color": "Verde scuro",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 62700
     }
   ]
 }

@@ -1,3 +1,52 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3225-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3225",
+      "reportAmount": "3",
+      "UTDate": "2025-06-17 05:01 UT",
+      "country": "US",
+      "location": "CO",
+      "color": "-",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 60
+    },
+    {
+      "eventID": "Event 3239-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3239",
+      "reportAmount": "3",
+      "UTDate": "2025-06-17 21:09 UT",
+      "country": "TR  CY",
+      "location": "Mersin, Paphos",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 58080
+    },
+    {
+      "eventID": "Event 3241-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3241",
+      "reportAmount": "3",
+      "UTDate": "2025-06-17 22:19 UT",
+      "country": "DE  BE  GB",
+      "location": "Bayern, England, Vlaanderen",
+      "color": "Light Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 4200
+    }
+  ]
 }

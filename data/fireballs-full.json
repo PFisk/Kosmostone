@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3180-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3180",
-      "reportAmount": "2",
-      "UTDate": "2025-06-14 22:00 UT",
-      "country": "AT  DE",
-      "location": "Bayern, Oberösterreich",
-      "color": "Hellgelb",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 3182-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3182",
       "reportAmount": "2",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "2",
       "fragmentationNegative": "",
-      "timeSinceLastEntry": 13560
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3204-2025",
@@ -657,6 +641,22 @@
       "timeSinceLastEntry": 480
     },
     {
+      "eventID": "Event 3287-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3287",
+      "reportAmount": "5",
+      "UTDate": "2025-06-20 23:55 UT",
+      "country": "BR",
+      "location": "Mato Grosso do Sul, São Paulo",
+      "color": "Branco",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "4",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "4",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 15240
+    },
+    {
       "eventID": "Event 3304-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3304",
       "reportAmount": "2",
@@ -670,7 +670,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 21660
+      "timeSinceLastEntry": 6420
     },
     {
       "eventID": "Event 3305-2025",

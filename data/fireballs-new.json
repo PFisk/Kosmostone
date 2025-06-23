@@ -1,3 +1,68 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3338-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3338",
+      "reportAmount": "2",
+      "UTDate": "2025-06-22 04:32 UT",
+      "country": "US",
+      "location": "CO, SD",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 1380
+    },
+    {
+      "eventID": "Event 3337-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3337",
+      "reportAmount": "2",
+      "UTDate": "2025-06-22 04:45 UT",
+      "country": "US",
+      "location": "MN, WI",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 780
+    },
+    {
+      "eventID": "Event 3351-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3351",
+      "reportAmount": "2",
+      "UTDate": "2025-06-22 20:43 UT",
+      "country": "PL  SK",
+      "location": "Prešovský kraj, Województwo opolskie",
+      "color": "Svetložltý",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 57480
+    },
+    {
+      "eventID": "Event 3352-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3352",
+      "reportAmount": "2",
+      "UTDate": "2025-06-22 22:27 UT",
+      "country": "IT",
+      "location": "Lombardia, Veneto",
+      "color": "Light Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 6240
+    }
+  ]
 }

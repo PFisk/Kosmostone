@@ -705,22 +705,6 @@
       "timeSinceLastEntry": 1860
     },
     {
-      "eventID": "Event 3334-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3334",
-      "reportAmount": "8",
-      "UTDate": "2025-06-22 04:09 UT",
-      "country": "US",
-      "location": "IA, IL, Iowa, MN, WI",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "7",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "7",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 3780
-    },
-    {
       "eventID": "Event 3336-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3336",
       "reportAmount": "10",
@@ -734,6 +718,22 @@
       "concurrentSoundNegative": "9",
       "fragmentationPositive": "1",
       "fragmentationNegative": "7",
+      "timeSinceLastEntry": 3780
+    },
+    {
+      "eventID": "Event 3334-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3334",
+      "reportAmount": "8",
+      "UTDate": "2025-06-22 04:09 UT",
+      "country": "US",
+      "location": "IA, IL, Iowa, MN, WI",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "7",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "7",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "4",
       "timeSinceLastEntry": 0
     },
     {

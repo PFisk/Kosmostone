@@ -563,18 +563,18 @@
     {
       "eventID": "Event 3318-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3318",
-      "reportAmount": "11",
-      "UTDate": "2025-06-21 16:21 UT",
+      "reportAmount": "12",
+      "UTDate": "2025-06-21 16:23 UT",
       "country": "DK  DE",
       "location": ", Schleswig-Holstein",
       "color": "White",
-      "delayedSoundPositive": "2",
+      "delayedSoundPositive": "3",
       "delayedSoundNegative": "9",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "10",
       "fragmentationPositive": "",
-      "fragmentationNegative": "6",
-      "timeSinceLastEntry": 24480
+      "fragmentationNegative": "7",
+      "timeSinceLastEntry": 24600
     },
     {
       "eventID": "Event 3319-2025",
@@ -590,7 +590,7 @@
       "concurrentSoundNegative": "11",
       "fragmentationPositive": "1",
       "fragmentationNegative": "6",
-      "timeSinceLastEntry": 6240
+      "timeSinceLastEntry": 6120
     },
     {
       "eventID": "Event 3327-2025",
@@ -755,33 +755,33 @@
     {
       "eventID": "Event 3357-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3357",
-      "reportAmount": "11",
+      "reportAmount": "12",
       "UTDate": "2025-06-23 00:56 UT",
       "country": "US",
       "location": "NC, VA",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "8",
+      "delayedSoundNegative": "9",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "8",
-      "fragmentationPositive": "4",
+      "concurrentSoundNegative": "9",
+      "fragmentationPositive": "5",
       "fragmentationNegative": "6",
       "timeSinceLastEntry": 8940
     },
     {
       "eventID": "Event 3358-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3358",
-      "reportAmount": "45",
+      "reportAmount": "46",
       "UTDate": "2025-06-23 02:24 UT",
       "country": "US",
       "location": "AL, GA, IN, KY, NC, SC, TN",
       "color": "Light Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "37",
+      "delayedSoundNegative": "38",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "38",
+      "concurrentSoundNegative": "39",
       "fragmentationPositive": "8",
-      "fragmentationNegative": "30",
+      "fragmentationNegative": "31",
       "timeSinceLastEntry": 5280
     },
     {

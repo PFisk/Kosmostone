@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 3381-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3381",
-      "reportAmount": "2",
-      "UTDate": "2025-06-23 22:31 UT",
-      "country": "DE",
-      "location": "Nordrhein-Westfalen, Rheinland-Pfalz",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 3300
-    },
-    {
-      "eventID": "Event 3385-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3385",
-      "reportAmount": "2",
-      "UTDate": "2025-06-24 02:12 UT",
-      "country": "US",
-      "location": "Michigan",
-      "color": "Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 13260
-    }
-  ]
+  "fireballs": []
 }

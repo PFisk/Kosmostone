@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3414-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3414",
+      "reportAmount": "2",
+      "UTDate": "2025-06-24 22:58 UT",
+      "country": "AR  CL",
+      "location": "Mendoza Province, Santiago Metropolitan Region",
+      "color": "Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 28080
+    }
+  ]
 }

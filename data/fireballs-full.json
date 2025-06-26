@@ -241,22 +241,6 @@
       "timeSinceLastEntry": 1860
     },
     {
-      "eventID": "Event 3336-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3336",
-      "reportAmount": "10",
-      "UTDate": "2025-06-22 04:09 UT",
-      "country": "US",
-      "location": "AL, FL, TN",
-      "color": "Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "9",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "9",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "7",
-      "timeSinceLastEntry": 3780
-    },
-    {
       "eventID": "Event 3334-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3334",
       "reportAmount": "10",
@@ -270,6 +254,22 @@
       "concurrentSoundNegative": "8",
       "fragmentationPositive": "1",
       "fragmentationNegative": "5",
+      "timeSinceLastEntry": 3780
+    },
+    {
+      "eventID": "Event 3336-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3336",
+      "reportAmount": "10",
+      "UTDate": "2025-06-22 04:09 UT",
+      "country": "US",
+      "location": "AL, FL, TN",
+      "color": "Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "9",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "9",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "7",
       "timeSinceLastEntry": 0
     },
     {
@@ -787,17 +787,17 @@
     {
       "eventID": "Event 3455-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3455",
-      "reportAmount": "167",
+      "reportAmount": "162",
       "UTDate": "2025-06-26 16:25 UT",
       "country": "US",
       "location": "AL, AZ, FL, GA, NC, North Carolina, OH, SC, TN",
       "color": "Orange",
       "delayedSoundPositive": "5",
-      "delayedSoundNegative": "124",
+      "delayedSoundNegative": "119",
       "concurrentSoundPositive": "6",
-      "concurrentSoundNegative": "122",
+      "concurrentSoundNegative": "117",
       "fragmentationPositive": "14",
-      "fragmentationNegative": "112",
+      "fragmentationNegative": "107",
       "timeSinceLastEntry": 47220
     }
   ]

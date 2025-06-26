@@ -273,22 +273,6 @@
       "timeSinceLastEntry": 1860
     },
     {
-      "eventID": "Event 3334-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3334",
-      "reportAmount": "10",
-      "UTDate": "2025-06-22 04:09 UT",
-      "country": "US",
-      "location": "IA, IL, MN, WI",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "9",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "8",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "5",
-      "timeSinceLastEntry": 3780
-    },
-    {
       "eventID": "Event 3336-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3336",
       "reportAmount": "10",
@@ -302,6 +286,22 @@
       "concurrentSoundNegative": "9",
       "fragmentationPositive": "1",
       "fragmentationNegative": "7",
+      "timeSinceLastEntry": 3780
+    },
+    {
+      "eventID": "Event 3334-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3334",
+      "reportAmount": "10",
+      "UTDate": "2025-06-22 04:09 UT",
+      "country": "US",
+      "location": "IA, IL, MN, WI",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "9",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "8",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "5",
       "timeSinceLastEntry": 0
     },
     {
@@ -711,7 +711,7 @@
       "UTDate": "2025-06-25 06:28 UT",
       "country": "US  CA",
       "location": "Connecticut, CT, DE, MA, MD, ME, New Jersey, New York, NJ, NY, Ontario, PA, Pennsylvania, RI, VT",
-      "color": "White",
+      "color": "",
       "delayedSoundPositive": "4",
       "delayedSoundNegative": "53",
       "concurrentSoundPositive": "2",

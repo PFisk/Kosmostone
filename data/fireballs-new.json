@@ -1,3 +1,68 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3408-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3408",
+      "reportAmount": "2",
+      "UTDate": "2025-06-24 15:10 UT",
+      "country": "AU",
+      "location": "South Australia",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 26100
+    },
+    {
+      "eventID": "Event 3427-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3427",
+      "reportAmount": "2",
+      "UTDate": "2025-06-25 03:27 UT",
+      "country": "US",
+      "location": "NY, PA",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 420
+    },
+    {
+      "eventID": "Event 3428-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3428",
+      "reportAmount": "3",
+      "UTDate": "2025-06-25 05:45 UT",
+      "country": "US",
+      "location": "WA",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 4380
+    },
+    {
+      "eventID": "Event 3429-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3429",
+      "reportAmount": "69",
+      "UTDate": "2025-06-25 06:28 UT",
+      "country": "US  CA",
+      "location": "Connecticut, CT, DE, MA, MD, ME, New Jersey, NJ, NY, Ontario, PA, Pennsylvania, RI, VT",
+      "color": "White",
+      "delayedSoundPositive": "3",
+      "delayedSoundNegative": "52",
+      "concurrentSoundPositive": "2",
+      "concurrentSoundNegative": "51",
+      "fragmentationPositive": "10",
+      "fragmentationNegative": "32",
+      "timeSinceLastEntry": 2580
+    }
+  ]
 }

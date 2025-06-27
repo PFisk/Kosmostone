@@ -739,17 +739,17 @@
     {
       "eventID": "Event 3455-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3455",
-      "reportAmount": "204",
+      "reportAmount": "215",
       "UTDate": "2025-06-26 16:25 UT",
       "country": "US",
       "location": "AL, Alabama, AZ, FL, GA, Georgia, NC, North Carolina, SC, South Carolina, Tennessee, TN",
       "color": "Orange",
       "delayedSoundPositive": "9",
-      "delayedSoundNegative": "151",
+      "delayedSoundNegative": "159",
       "concurrentSoundPositive": "8",
-      "concurrentSoundNegative": "150",
-      "fragmentationPositive": "17",
-      "fragmentationNegative": "138",
+      "concurrentSoundNegative": "158",
+      "fragmentationPositive": "18",
+      "fragmentationNegative": "145",
       "timeSinceLastEntry": 21180
     },
     {

@@ -195,17 +195,17 @@
     {
       "eventID": "Event 3381-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3381",
-      "reportAmount": "3",
+      "reportAmount": "4",
       "UTDate": "2025-06-23 22:30 UT",
-      "country": "BE  DE",
-      "location": "Nordrhein-Westfalen, Région wallonne, Rheinland-Pfalz",
+      "country": "DE  BE",
+      "location": "Baden-Württemberg, Nordrhein-Westfalen, Région wallonne, Rheinland-Pfalz",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
+      "fragmentationNegative": "3",
       "timeSinceLastEntry": 3240
     },
     {
@@ -275,18 +275,18 @@
     {
       "eventID": "Event 3400-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3400",
-      "reportAmount": "10",
-      "UTDate": "2025-06-24 05:24 UT",
+      "reportAmount": "11",
+      "UTDate": "2025-06-24 05:25 UT",
       "country": "US  CA",
-      "location": "British Columbia, WA",
+      "location": "British Columbia, WA, Washington",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "6",
+      "delayedSoundNegative": "7",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "6",
+      "concurrentSoundNegative": "7",
       "fragmentationPositive": "2",
       "fragmentationNegative": "4",
-      "timeSinceLastEntry": 11520
+      "timeSinceLastEntry": 11580
     },
     {
       "eventID": "Event 3402-2025",
@@ -302,7 +302,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 2460
+      "timeSinceLastEntry": 2400
     },
     {
       "eventID": "Event 3406-2025",

@@ -787,18 +787,18 @@
     {
       "eventID": "Event 3621-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3621",
-      "reportAmount": "21",
-      "UTDate": "2025-06-30 15:56 UT",
-      "country": "FR  DE  BE  NL",
+      "reportAmount": "25",
+      "UTDate": "2025-06-30 15:57 UT",
+      "country": "NL  FR  DE  BE",
       "location": "Flevoland, Friesland, Groningen, Hauts-de-France, Limburg, Noord-Brabant, Noord-Holland, Nordrhein-Westfalen, Utrecht, Vlaanderen, Zeeland, Zuid-Holland",
       "color": "Wit",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "19",
+      "delayedSoundNegative": "22",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "20",
+      "concurrentSoundNegative": "24",
       "fragmentationPositive": "2",
-      "fragmentationNegative": "11",
-      "timeSinceLastEntry": 3240
+      "fragmentationNegative": "14",
+      "timeSinceLastEntry": 3300
     }
   ]
 }

@@ -771,18 +771,18 @@
     {
       "eventID": "Event 3620-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3620",
-      "reportAmount": "22",
-      "UTDate": "2025-06-30 15:02 UT",
+      "reportAmount": "29",
+      "UTDate": "2025-06-30 15:05 UT",
       "country": "US",
-      "location": "Minnesota, South Dakota, Wisconsin",
-      "color": "White",
+      "location": "Minnesota, Nebraska, North Dakota, South Dakota, Wisconsin",
+      "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "16",
+      "delayedSoundNegative": "22",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "15",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "17",
-      "timeSinceLastEntry": 34320
+      "concurrentSoundNegative": "21",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "20",
+      "timeSinceLastEntry": 34500
     },
     {
       "eventID": "Event 3621-2025",
@@ -798,7 +798,7 @@
       "concurrentSoundNegative": "24",
       "fragmentationPositive": "2",
       "fragmentationNegative": "14",
-      "timeSinceLastEntry": 3300
+      "timeSinceLastEntry": 3120
     }
   ]
 }

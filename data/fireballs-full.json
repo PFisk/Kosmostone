@@ -1,70 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3439-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3439",
-      "reportAmount": "2",
-      "UTDate": "2025-06-25 21:47 UT",
-      "country": "FR",
-      "location": "Bretagne, Nouvelle-Aquitaine",
-      "color": "Vert clair",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3442-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3442",
-      "reportAmount": "4",
-      "UTDate": "2025-06-25 23:01 UT",
-      "country": "RO  HU  DE  SK",
-      "location": ", Žilinský kraj, Bayern, Cluj County",
-      "color": "Weiß",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 4440
-    },
-    {
-      "eventID": "Event 3443-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3443",
-      "reportAmount": "2",
-      "UTDate": "2025-06-26 00:38 UT",
-      "country": "DE  IT",
-      "location": "Lombardia, Niedersachsen",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 5820
-    },
-    {
-      "eventID": "Event 3445-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3445",
-      "reportAmount": "5",
-      "UTDate": "2025-06-26 02:21 UT",
-      "country": "US",
-      "location": "NY, RI, VT",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 6180
-    },
-    {
       "eventID": "Event 3448-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3448",
       "reportAmount": "9",
@@ -78,7 +14,7 @@
       "concurrentSoundNegative": "8",
       "fragmentationPositive": "4",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 3360
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3468-2025",
@@ -387,10 +323,10 @@
     {
       "eventID": "Event 3535-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3535",
-      "reportAmount": "15",
+      "reportAmount": "16",
       "UTDate": "2025-06-28 00:02 UT",
-      "country": "NL  GB  FR  DE",
-      "location": "Baden-Württemberg, England, Hauts-de-France, Limburg, Noord-Brabant, Noord-Holland, Nordrhein-Westfalen, Saarland",
+      "country": "GB  FR  DE  CH  NL",
+      "location": "Aargau, Baden-Württemberg, England, Hauts-de-France, Limburg, Noord-Brabant, Noord-Holland, Nordrhein-Westfalen, Saarland",
       "color": "Light Blue",
       "delayedSoundPositive": "2",
       "delayedSoundNegative": "12",
@@ -419,18 +355,18 @@
     {
       "eventID": "Event 3543-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3543",
-      "reportAmount": "12",
-      "UTDate": "2025-06-28 02:41 UT",
+      "reportAmount": "13",
+      "UTDate": "2025-06-28 02:42 UT",
       "country": "US",
-      "location": "NC, VA",
+      "location": "NC, North Carolina, VA",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "9",
+      "delayedSoundNegative": "10",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "10",
+      "concurrentSoundNegative": "11",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "9",
-      "timeSinceLastEntry": 3360
+      "fragmentationNegative": "10",
+      "timeSinceLastEntry": 3420
     },
     {
       "eventID": "Event 3545-2025",
@@ -446,7 +382,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 4140
+      "timeSinceLastEntry": 4080
     },
     {
       "eventID": "Event 3546-2025",
@@ -465,6 +401,22 @@
       "timeSinceLastEntry": 2520
     },
     {
+      "eventID": "Event 3549-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3549",
+      "reportAmount": "2",
+      "UTDate": "2025-06-28 05:04 UT",
+      "country": "US",
+      "location": "NC, North Carolina",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 1920
+    },
+    {
       "eventID": "Event 3547-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3547",
       "reportAmount": "40",
@@ -478,7 +430,7 @@
       "concurrentSoundNegative": "32",
       "fragmentationPositive": "27",
       "fragmentationNegative": "9",
-      "timeSinceLastEntry": 3000
+      "timeSinceLastEntry": 1080
     },
     {
       "eventID": "Event 3553-2025",
@@ -593,6 +545,22 @@
       "timeSinceLastEntry": 120
     },
     {
+      "eventID": "Event 3577-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3577",
+      "reportAmount": "2",
+      "UTDate": "2025-06-29 06:04 UT",
+      "country": "US",
+      "location": "CA, California",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 1200
+    },
+    {
       "eventID": "Event 3581-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3581",
       "reportAmount": "2",
@@ -606,7 +574,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 7200
+      "timeSinceLastEntry": 6000
     },
     {
       "eventID": "Event 3589-2025",
@@ -723,15 +691,15 @@
     {
       "eventID": "Event 3621-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3621",
-      "reportAmount": "26",
+      "reportAmount": "27",
       "UTDate": "2025-06-30 15:57 UT",
       "country": "NL  FR  DE  BE",
       "location": "Flevoland, Friesland, Groningen, Hauts-de-France, Limburg, Noord-Brabant, Noord-Holland, Nordrhein-Westfalen, Utrecht, Vlaanderen, Zeeland, Zuid-Holland",
       "color": "Wit",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "23",
+      "delayedSoundNegative": "24",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "25",
+      "concurrentSoundNegative": "26",
       "fragmentationPositive": "2",
       "fragmentationNegative": "15",
       "timeSinceLastEntry": 3120
@@ -755,17 +723,17 @@
     {
       "eventID": "Event 3631-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3631",
-      "reportAmount": "20",
+      "reportAmount": "22",
       "UTDate": "2025-07-01 02:17 UT",
       "country": "US  CA",
-      "location": "ME, New Brunswick, NH, Nova Scotia, Prince Edward Island",
+      "location": "Massachusetts, ME, New Brunswick, NH, Nova Scotia, Prince Edward Island",
       "color": "Green",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "15",
+      "delayedSoundNegative": "16",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "14",
+      "concurrentSoundNegative": "15",
       "fragmentationPositive": "3",
-      "fragmentationNegative": "9",
+      "fragmentationNegative": "11",
       "timeSinceLastEntry": 2100
     },
     {
@@ -799,6 +767,38 @@
       "fragmentationPositive": "6",
       "fragmentationNegative": "",
       "timeSinceLastEntry": 4080
+    },
+    {
+      "eventID": "Event 3652-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3652",
+      "reportAmount": "18",
+      "UTDate": "2025-07-01 19:31 UT",
+      "country": "SE  FI  AX",
+      "location": "Ålands landsbygd, Gävleborgs län, Gotlands län, Mariehamn sub-region, Satakunta, Södermanlands län, Stockholm County, Stockholms län, Uppsala län",
+      "color": "White",
+      "delayedSoundPositive": "2",
+      "delayedSoundNegative": "12",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "14",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "11",
+      "timeSinceLastEntry": 49500
+    },
+    {
+      "eventID": "Event 3653-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3653",
+      "reportAmount": "2",
+      "UTDate": "2025-07-01 21:34 UT",
+      "country": "NL",
+      "location": "Utrecht, Zuid-Holland",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 7380
     }
   ]
 }

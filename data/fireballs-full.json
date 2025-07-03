@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3480-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3480",
-      "reportAmount": "24",
-      "UTDate": "2025-06-26 21:06 UT",
-      "country": "FR  DE  CH",
-      "location": "Aargau, Baden-Württemberg, Bern, Bourgogne-Franche-Comté, Genève, Grand Est, Occitanie, Provence-Alpes-Côte d'Azur, Rheinland-Pfalz, Zürich",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "22",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "21",
-      "fragmentationPositive": "10",
-      "fragmentationNegative": "10",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 3481-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3481",
       "reportAmount": "4",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 6720
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3484-2025",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "20",
       "fragmentationNegative": "43",
       "timeSinceLastEntry": 2820
+    },
+    {
+      "eventID": "Event 3687-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3687",
+      "reportAmount": "4",
+      "UTDate": "2025-07-03 02:39 UT",
+      "country": "US",
+      "location": "Alabama, Florida",
+      "color": "Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 10140
     }
   ]
 }

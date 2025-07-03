@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3685-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3685",
+      "reportAmount": "2",
+      "UTDate": "2025-07-02 23:46 UT",
+      "country": "BE  GB",
+      "location": "Bruxelles, England",
+      "color": "Blanc",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 2580
+    }
+  ]
 }

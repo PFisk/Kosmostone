@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3481-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3481",
-      "reportAmount": "4",
-      "UTDate": "2025-06-26 22:58 UT",
-      "country": "DZ  LY",
-      "location": "El Oued Province, Ghadamis, Illizi Province, ولاية ورقلة",
-      "color": "Orange",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 3484-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3484",
       "reportAmount": "11",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "7",
       "fragmentationPositive": "",
       "fragmentationNegative": "8",
-      "timeSinceLastEntry": 8760
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3503-2025",
@@ -769,36 +753,52 @@
       "timeSinceLastEntry": 3180
     },
     {
+      "eventID": "Event 3685-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3685",
+      "reportAmount": "2",
+      "UTDate": "2025-07-02 23:46 UT",
+      "country": "BE  GB",
+      "location": "Bruxelles, England",
+      "color": "Blanc",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 2580
+    },
+    {
       "eventID": "Event 3666-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3666",
-      "reportAmount": "110",
-      "UTDate": "2025-07-02 23:50 UT",
+      "reportAmount": "126",
+      "UTDate": "2025-07-02 23:49 UT",
       "country": "IE  GB",
       "location": ", Contae Chiarraí, County Galway, England, Northern Ireland, Scotland, Wales",
       "color": "Orange",
-      "delayedSoundPositive": "12",
-      "delayedSoundNegative": "72",
-      "concurrentSoundPositive": "7",
-      "concurrentSoundNegative": "75",
-      "fragmentationPositive": "20",
-      "fragmentationNegative": "43",
-      "timeSinceLastEntry": 2820
+      "delayedSoundPositive": "14",
+      "delayedSoundNegative": "80",
+      "concurrentSoundPositive": "8",
+      "concurrentSoundNegative": "84",
+      "fragmentationPositive": "28",
+      "fragmentationNegative": "47",
+      "timeSinceLastEntry": 180
     },
     {
       "eventID": "Event 3687-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3687",
-      "reportAmount": "4",
+      "reportAmount": "5",
       "UTDate": "2025-07-03 02:39 UT",
       "country": "US",
       "location": "Alabama, Florida",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
+      "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 10140
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 10200
     }
   ]
 }

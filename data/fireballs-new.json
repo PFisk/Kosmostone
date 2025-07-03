@@ -1,3 +1,84 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 3561-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3561",
+      "reportAmount": "2",
+      "UTDate": "2025-06-29 00:22 UT",
+      "country": "DE",
+      "location": "Bayern, Niedersachsen",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 5220
+    },
+    {
+      "eventID": "Event 3645-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3645",
+      "reportAmount": "2",
+      "UTDate": "2025-07-01 04:48 UT",
+      "country": "US",
+      "location": "IL",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 600
+    },
+    {
+      "eventID": "Event 3665-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3665",
+      "reportAmount": "2",
+      "UTDate": "2025-07-01 13:08 UT",
+      "country": "US",
+      "location": "FL",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 26400
+    },
+    {
+      "eventID": "Event 3654-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3654",
+      "reportAmount": "2",
+      "UTDate": "2025-07-01 20:18 UT",
+      "country": "EE",
+      "location": "Tartu maakond",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 2820
+    },
+    {
+      "eventID": "Event 3666-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3666",
+      "reportAmount": "93",
+      "UTDate": "2025-07-02 23:50 UT",
+      "country": "IE  GB",
+      "location": ", Contae Chiarraí, County Galway, England, Northern Ireland, Scotland, Wales",
+      "color": "Orange",
+      "delayedSoundPositive": "10",
+      "delayedSoundNegative": "65",
+      "concurrentSoundPositive": "6",
+      "concurrentSoundNegative": "67",
+      "fragmentationPositive": "17",
+      "fragmentationNegative": "38",
+      "timeSinceLastEntry": 94560
+    }
+  ]
 }

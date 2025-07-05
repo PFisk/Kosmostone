@@ -739,17 +739,17 @@
     {
       "eventID": "Event 3666-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3666",
-      "reportAmount": "135",
+      "reportAmount": "142",
       "UTDate": "2025-07-02 23:47 UT",
       "country": "IE  GB",
       "location": ", Contae Chiarraí, County Clare, County Galway, England, Northern Ireland, Scotland, Wales",
       "color": "Orange",
       "delayedSoundPositive": "15",
-      "delayedSoundNegative": "80",
+      "delayedSoundNegative": "83",
       "concurrentSoundPositive": "8",
-      "concurrentSoundNegative": "86",
-      "fragmentationPositive": "29",
-      "fragmentationNegative": "51",
+      "concurrentSoundNegative": "90",
+      "fragmentationPositive": "30",
+      "fragmentationNegative": "56",
       "timeSinceLastEntry": 420
     },
     {

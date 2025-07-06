@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3553-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3553",
-      "reportAmount": "3",
-      "UTDate": "2025-06-28 21:03 UT",
-      "country": "FR  IT",
-      "location": "Corse, Emilia-Romagna",
-      "color": "Rouge",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 3559-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3559",
       "reportAmount": "6",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "1",
       "fragmentationNegative": "4",
-      "timeSinceLastEntry": 6720
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3561-2025",
@@ -211,18 +195,18 @@
     {
       "eventID": "Event 3597-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3597",
-      "reportAmount": "2",
-      "UTDate": "2025-06-29 22:39 UT",
-      "country": "GB",
-      "location": "England",
+      "reportAmount": "3",
+      "UTDate": "2025-06-29 22:26 UT",
+      "country": "BE  GB",
+      "location": "England, Région flamande",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
+      "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 2220
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 1440
     },
     {
       "eventID": "Event 3604-2025",
@@ -238,7 +222,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 18660
+      "timeSinceLastEntry": 19440
     },
     {
       "eventID": "Event 3613-2025",
@@ -627,17 +611,17 @@
     {
       "eventID": "Event 3666-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3666",
-      "reportAmount": "142",
+      "reportAmount": "143",
       "UTDate": "2025-07-02 23:47 UT",
       "country": "IE  GB",
       "location": ", Contae Chiarraí, County Clare, County Galway, England, Northern Ireland, Scotland, Wales",
       "color": "Orange",
       "delayedSoundPositive": "15",
-      "delayedSoundNegative": "83",
+      "delayedSoundNegative": "84",
       "concurrentSoundPositive": "8",
-      "concurrentSoundNegative": "90",
+      "concurrentSoundNegative": "91",
       "fragmentationPositive": "30",
-      "fragmentationNegative": "56",
+      "fragmentationNegative": "57",
       "timeSinceLastEntry": 420
     },
     {
@@ -753,20 +737,36 @@
       "timeSinceLastEntry": 11280
     },
     {
+      "eventID": "Event 3722-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3722",
+      "reportAmount": "2",
+      "UTDate": "2025-07-04 14:46 UT",
+      "country": "KR",
+      "location": ", Daejeon",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 31980
+    },
+    {
       "eventID": "Event 3723-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3723",
-      "reportAmount": "2",
-      "UTDate": "2025-07-04 20:31 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-07-04 20:23 UT",
       "country": "DE",
-      "location": "Nordrhein-Westfalen, Rheinland-Pfalz",
-      "color": "Light Yellow",
+      "location": "Bayern, Nordrhein-Westfalen, Rheinland-Pfalz",
+      "color": "Gelb",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 52680
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 20220
     },
     {
       "eventID": "Event 3729-2025",
@@ -782,23 +782,23 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 19020
+      "timeSinceLastEntry": 19500
     },
     {
       "eventID": "Event 3727-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3727",
-      "reportAmount": "2",
-      "UTDate": "2025-07-05 02:04 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-07-05 02:19 UT",
       "country": "DE",
-      "location": "Hessen, Nordrhein-Westfalen",
+      "location": "Hessen, Nordrhein-Westfalen, Rheinland-Pfalz",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
+      "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 960
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 1860
     }
   ]
 }

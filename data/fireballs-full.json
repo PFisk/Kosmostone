@@ -1,54 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3597-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3597",
-      "reportAmount": "3",
-      "UTDate": "2025-06-29 22:26 UT",
-      "country": "BE  GB",
-      "location": "England, Région flamande",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3604-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3604",
-      "reportAmount": "2",
-      "UTDate": "2025-06-30 03:50 UT",
-      "country": "US",
-      "location": "MA, NJ",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 19440
-    },
-    {
-      "eventID": "Event 3613-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3613",
-      "reportAmount": "2",
-      "UTDate": "2025-06-30 05:30 UT",
-      "country": "US",
-      "location": "NC",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 6000
-    },
-    {
       "eventID": "Event 3620-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3620",
       "reportAmount": "30",
@@ -62,7 +14,7 @@
       "concurrentSoundNegative": "22",
       "fragmentationPositive": "2",
       "fragmentationNegative": "20",
-      "timeSinceLastEntry": 34500
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3621-2025",
@@ -659,34 +611,34 @@
     {
       "eventID": "Event 3756-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3756",
-      "reportAmount": "10",
+      "reportAmount": "13",
       "UTDate": "2025-07-05 20:16 UT",
       "country": "UA  SK  PL",
-      "location": "Ivano-Frankivs'ka oblast, Košický kraj, Lesser Poland Voivodeship, Lviv Oblast, Nitriansky kraj, Prešov Region, Prešovský kraj, Województwo śląskie, Województwo mazowieckie",
+      "location": "Ivano-Frankivs'ka oblast, Košický kraj, Lesser Poland Voivodeship, Lviv Oblast, Nitra Region, Nitriansky kraj, Prešov Region, Prešovský kraj, Silesian Voivodeship, Województwo śląskie, Województwo mazowieckie",
       "color": "White",
       "delayedSoundPositive": "2",
-      "delayedSoundNegative": "8",
+      "delayedSoundNegative": "10",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "10",
-      "fragmentationPositive": "4",
-      "fragmentationNegative": "2",
+      "concurrentSoundNegative": "12",
+      "fragmentationPositive": "5",
+      "fragmentationNegative": "4",
       "timeSinceLastEntry": 4080
     },
     {
       "eventID": "Event 3757-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3757",
-      "reportAmount": "2",
-      "UTDate": "2025-07-05 21:42 UT",
-      "country": "PT",
-      "location": "Beja, Lisboa",
-      "color": "Laranja",
+      "reportAmount": "3",
+      "UTDate": "2025-07-05 21:43 UT",
+      "country": "GI  PT",
+      "location": ", Beja, Lisboa",
+      "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 5160
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 5220
     },
     {
       "eventID": "Event 3758-2025",
@@ -702,7 +654,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "2",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 3420
+      "timeSinceLastEntry": 3360
     },
     {
       "eventID": "Event 3762-2025",
@@ -739,10 +691,10 @@
     {
       "eventID": "Event 3764-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3764",
-      "reportAmount": "2",
-      "UTDate": "2025-07-06 04:14 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-07-06 04:19 UT",
       "country": "US",
-      "location": "SD, WI",
+      "location": "Iowa, SD, WI",
       "color": "Light Blue",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "2",
@@ -750,7 +702,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 420
+      "timeSinceLastEntry": 720
     },
     {
       "eventID": "Event 3767-2025",
@@ -766,23 +718,39 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 2820
+      "timeSinceLastEntry": 2520
+    },
+    {
+      "eventID": "Event 3782-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3782",
+      "reportAmount": "2",
+      "UTDate": "2025-07-06 22:30 UT",
+      "country": "RO  UA",
+      "location": "Județul Maramureș, Lviv Oblast",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 62940
     },
     {
       "eventID": "Event 3784-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3784",
-      "reportAmount": "4",
-      "UTDate": "2025-07-07 02:18 UT",
+      "reportAmount": "6",
+      "UTDate": "2025-07-07 02:17 UT",
       "country": "US",
-      "location": "Iowa, Kentucky, Michigan",
+      "location": "Indiana, Iowa, KY, Michigan, Wisconsin",
       "color": "Yellow",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 76620
+      "concurrentSoundNegative": "4",
+      "fragmentationPositive": "3",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 13620
     },
     {
       "eventID": "Event 3785-2025",
@@ -798,7 +766,39 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 780
+      "timeSinceLastEntry": 840
+    },
+    {
+      "eventID": "Event 3791-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3791",
+      "reportAmount": "2",
+      "UTDate": "2025-07-07 07:57 UT",
+      "country": "US",
+      "location": "West Virginia",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 19560
+    },
+    {
+      "eventID": "Event 3793-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3793",
+      "reportAmount": "3",
+      "UTDate": "2025-07-07 10:50 UT",
+      "country": "US",
+      "location": "California, Nevada",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 10380
     }
   ]
 }

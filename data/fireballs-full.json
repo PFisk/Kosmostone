@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3620-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3620",
-      "reportAmount": "30",
-      "UTDate": "2025-06-30 15:05 UT",
-      "country": "US",
-      "location": "MN, ND, NE, SD, WI",
-      "color": "Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "23",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "22",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "20",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3621-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3621",
-      "reportAmount": "28",
-      "UTDate": "2025-06-30 15:57 UT",
-      "country": "NL  FR  DE  BE",
-      "location": "Drenthe, Flevoland, Friesland, Groningen, Hauts-de-France, Limburg, Noord-Brabant, Noord-Holland, Nordrhein-Westfalen, Utrecht, Vlaanderen, Zeeland, Zuid-Holland",
-      "color": "Wit",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "24",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "26",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "15",
-      "timeSinceLastEntry": 3120
-    },
-    {
       "eventID": "Event 3630-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3630",
       "reportAmount": "3",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 35100
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3631-2025",
@@ -769,36 +737,68 @@
       "timeSinceLastEntry": 840
     },
     {
-      "eventID": "Event 3791-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3791",
-      "reportAmount": "2",
-      "UTDate": "2025-07-07 07:57 UT",
+      "eventID": "Event 3793-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3793",
+      "reportAmount": "4",
+      "UTDate": "2025-07-07 10:50 UT",
       "country": "US",
-      "location": "WV",
-      "color": "Light Yellow",
+      "location": "CA, NV, SD",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 29940
+    },
+    {
+      "eventID": "Event 3814-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3814",
+      "reportAmount": "2",
+      "UTDate": "2025-07-08 08:13 UT",
+      "country": "US",
+      "location": "NC, SC",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 76980
+    },
+    {
+      "eventID": "Event 3815-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3815",
+      "reportAmount": "4",
+      "UTDate": "2025-07-08 08:24 UT",
+      "country": "US",
+      "location": "FL",
+      "color": "Orange",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 19560
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 660
     },
     {
-      "eventID": "Event 3793-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3793",
-      "reportAmount": "3",
-      "UTDate": "2025-07-07 10:50 UT",
+      "eventID": "Event 3816-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3816",
+      "reportAmount": "2",
+      "UTDate": "2025-07-08 08:27 UT",
       "country": "US",
-      "location": "CA, NV",
+      "location": "NC, VA",
       "color": "White",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 10380
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 180
     }
   ]
 }

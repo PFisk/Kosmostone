@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3763-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3763",
-      "reportAmount": "2",
-      "UTDate": "2025-07-06 04:07 UT",
-      "country": "CA",
-      "location": "Manitoba, Saskatchewan",
-      "color": "Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3764-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3764",
-      "reportAmount": "3",
-      "UTDate": "2025-07-06 04:19 UT",
-      "country": "US",
-      "location": "IA, SD, WI",
-      "color": "Light Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 720
-    },
-    {
       "eventID": "Event 3767-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3767",
       "reportAmount": "3",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 2520
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3782-2025",
@@ -595,18 +563,18 @@
     {
       "eventID": "Event 3900-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3900",
-      "reportAmount": "2",
-      "UTDate": "2025-07-12 05:27 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-07-12 05:35 UT",
       "country": "US",
       "location": "CA, California",
-      "color": "Light Blue",
+      "color": "White",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 840
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 1320
     },
     {
       "eventID": "Event 3901-2025",
@@ -622,7 +590,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 1980
+      "timeSinceLastEntry": 1500
     },
     {
       "eventID": "Event 3903-2025",
@@ -659,7 +627,7 @@
     {
       "eventID": "Event 3907-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3907",
-      "reportAmount": "5",
+      "reportAmount": "6",
       "UTDate": "2025-07-12 10:48 UT",
       "country": "AU",
       "location": "Queensland",
@@ -671,6 +639,22 @@
       "fragmentationPositive": "1",
       "fragmentationNegative": "",
       "timeSinceLastEntry": 4140
+    },
+    {
+      "eventID": "Event 3908-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3908",
+      "reportAmount": "3",
+      "UTDate": "2025-07-12 16:54 UT",
+      "country": "ZA",
+      "location": "Gauteng",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "3",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 21960
     },
     {
       "eventID": "Event 3916-2025",
@@ -686,7 +670,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 37440
+      "timeSinceLastEntry": 15480
     },
     {
       "eventID": "Event 3918-2025",
@@ -707,16 +691,16 @@
     {
       "eventID": "Event 3919-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3919",
-      "reportAmount": "3",
+      "reportAmount": "4",
       "UTDate": "2025-07-12 22:02 UT",
-      "country": "FR",
-      "location": "Bourgogne-Franche-Comté, Grand Est",
+      "country": "DE  FR",
+      "location": "Baden-Württemberg, Bourgogne-Franche-Comté, Grand Est",
       "color": "Jaune clair",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "2",
+      "concurrentSoundNegative": "4",
+      "fragmentationPositive": "3",
       "fragmentationNegative": "1",
       "timeSinceLastEntry": 420
     },
@@ -739,17 +723,17 @@
     {
       "eventID": "Event 3923-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3923",
-      "reportAmount": "3",
+      "reportAmount": "4",
       "UTDate": "2025-07-13 00:27 UT",
-      "country": "FR  JE",
-      "location": ", Pays de la Loire, Saint-Brélade",
+      "country": "JE  FR",
+      "location": ", Bretagne, Pays de la Loire, Saint-Brélade",
       "color": "Blanc bleuté. Principalement blanc et avec une aura bleuté (?) Ou disons avec plus de certitude que le lumière était blanche \"brillante\" et surtout à la fin du phénomène un éclair un peu plus bleu qu’avant.",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "3",
+      "fragmentationNegative": "4",
       "timeSinceLastEntry": 6360
     },
     {
@@ -787,18 +771,34 @@
     {
       "eventID": "Event 3929-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3929",
-      "reportAmount": "3",
-      "UTDate": "2025-07-13 05:09 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-07-13 05:08 UT",
       "country": "US",
-      "location": "Florida",
+      "location": "FL",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
+      "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 10680
+    },
+    {
+      "eventID": "Event 3935-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3935",
+      "reportAmount": "3",
+      "UTDate": "2025-07-13 09:20 UT",
+      "country": "US",
+      "location": "Arizona",
+      "color": "Light Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 10740
+      "timeSinceLastEntry": 15120
     }
   ]
 }

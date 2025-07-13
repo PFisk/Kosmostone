@@ -659,18 +659,18 @@
     {
       "eventID": "Event 3888-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3888",
-      "reportAmount": "3",
-      "UTDate": "2025-07-11 23:33 UT",
+      "reportAmount": "7",
+      "UTDate": "2025-07-11 23:32 UT",
       "country": "GB",
       "location": "England, Wales",
-      "color": "Blue",
+      "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "6",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "5",
       "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 900
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 840
     },
     {
       "eventID": "Event 3890-2025",
@@ -686,7 +686,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 14340
+      "timeSinceLastEntry": 14400
     },
     {
       "eventID": "Event 3891-2025",

@@ -1,54 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3767-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3767",
-      "reportAmount": "3",
-      "UTDate": "2025-07-06 05:01 UT",
-      "country": "US",
-      "location": "DE, PA",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3782-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3782",
-      "reportAmount": "2",
-      "UTDate": "2025-07-06 22:30 UT",
-      "country": "RO  UA",
-      "location": "Județul Maramureș, Lviv Oblast",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 62940
-    },
-    {
-      "eventID": "Event 3784-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3784",
-      "reportAmount": "6",
-      "UTDate": "2025-07-07 02:17 UT",
-      "country": "US",
-      "location": "IN, IA, KY, MI, WI",
-      "color": "Yellow",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "3",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 13620
-    },
-    {
       "eventID": "Event 3785-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3785",
       "reportAmount": "2",
@@ -62,7 +14,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 840
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3793-2025",
@@ -131,18 +83,18 @@
     {
       "eventID": "Event 3821-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3821",
-      "reportAmount": "5",
-      "UTDate": "2025-07-08 20:13 UT",
+      "reportAmount": "6",
+      "UTDate": "2025-07-08 20:10 UT",
       "country": "IT",
       "location": "Basilicata, Calabria, Campania, Puglia",
       "color": "Bianco",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
+      "delayedSoundNegative": "6",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
+      "concurrentSoundNegative": "6",
       "fragmentationPositive": "",
-      "fragmentationNegative": "5",
-      "timeSinceLastEntry": 36480
+      "fragmentationNegative": "6",
+      "timeSinceLastEntry": 36300
     },
     {
       "eventID": "Event 3823-2025",
@@ -158,7 +110,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 2160
+      "timeSinceLastEntry": 2340
     },
     {
       "eventID": "Event 3825-2025",
@@ -339,16 +291,16 @@
     {
       "eventID": "Event 3850-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3850",
-      "reportAmount": "35",
+      "reportAmount": "36",
       "UTDate": "2025-07-10 03:37 UT",
       "country": "US",
-      "location": "AL, FL, GA, LA, MS",
+      "location": "AL, FL, Florida, GA, LA, MS",
       "color": "White",
       "delayedSoundPositive": "2",
       "delayedSoundNegative": "28",
       "concurrentSoundPositive": "1",
       "concurrentSoundNegative": "28",
-      "fragmentationPositive": "10",
+      "fragmentationPositive": "11",
       "fragmentationNegative": "14",
       "timeSinceLastEntry": 4260
     },
@@ -785,6 +737,22 @@
       "timeSinceLastEntry": 10680
     },
     {
+      "eventID": "Event 3933-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3933",
+      "reportAmount": "2",
+      "UTDate": "2025-07-13 07:45 UT",
+      "country": "AU",
+      "location": "Australian Capital Territory, New South Wales",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 9420
+    },
+    {
       "eventID": "Event 3935-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3935",
       "reportAmount": "3",
@@ -798,7 +766,39 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 15120
+      "timeSinceLastEntry": 5700
+    },
+    {
+      "eventID": "Event 3941-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3941",
+      "reportAmount": "2",
+      "UTDate": "2025-07-13 22:56 UT",
+      "country": "RO",
+      "location": "Dâmbovița, Județul Satu Mare",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 48960
+    },
+    {
+      "eventID": "Event 3946-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3946",
+      "reportAmount": "2",
+      "UTDate": "2025-07-14 03:37 UT",
+      "country": "US",
+      "location": "Texas",
+      "color": "Purple",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 16860
     }
   ]
 }

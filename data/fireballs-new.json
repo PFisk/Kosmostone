@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 3994-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3994",
-      "reportAmount": "2",
-      "UTDate": "2025-07-15 21:30 UT",
-      "country": "FR",
-      "location": "Bourgogne-Franche-Comté, Provence-Alpes-Côte d'Azur",
-      "color": "Entre jaune et orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 3840
-    },
-    {
-      "eventID": "Event 3997-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3997",
-      "reportAmount": "7",
-      "UTDate": "2025-07-16 01:14 UT",
-      "country": "US",
-      "location": "Alabama, Tennessee",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 13440
-    }
-  ]
+  "fireballs": []
 }

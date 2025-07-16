@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3829-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3829",
-      "reportAmount": "2",
-      "UTDate": "2025-07-09 06:15 UT",
-      "country": "US",
-      "location": "NC, TN",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3831-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3831",
-      "reportAmount": "2",
-      "UTDate": "2025-07-09 07:15 UT",
-      "country": "US",
-      "location": "CA, WA",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 3600
-    },
-    {
       "eventID": "Event 3843-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3843",
       "reportAmount": "2",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 4200
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 3854-2025",
@@ -787,18 +755,50 @@
     {
       "eventID": "Event 3991-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3991",
-      "reportAmount": "3",
-      "UTDate": "2025-07-15 20:18 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-07-15 20:26 UT",
       "country": "IT",
-      "location": "Lazio, Marche, Veneto",
-      "color": "Bianco",
+      "location": "Basilicata, Lazio, Marche, Veneto",
+      "color": "Blu elettrico",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
+      "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 39420
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 39900
+    },
+    {
+      "eventID": "Event 3994-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3994",
+      "reportAmount": "2",
+      "UTDate": "2025-07-15 21:30 UT",
+      "country": "FR",
+      "location": "Bourgogne-Franche-Comté, Provence-Alpes-Côte d'Azur",
+      "color": "Entre jaune et orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 3840
+    },
+    {
+      "eventID": "Event 3997-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3997",
+      "reportAmount": "7",
+      "UTDate": "2025-07-16 01:14 UT",
+      "country": "US",
+      "location": "Alabama, Tennessee",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "5",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "5",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 13440
     }
   ]
 }

@@ -691,17 +691,17 @@
     {
       "eventID": "Event 4033-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4033",
-      "reportAmount": "3",
+      "reportAmount": "4",
       "UTDate": "2025-07-17 06:05 UT",
       "country": "US",
-      "location": "OR, WA",
+      "location": "OR, WA, Washington",
       "color": "Orange",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "3",
+      "fragmentationNegative": "4",
       "timeSinceLastEntry": 8340
     },
     {

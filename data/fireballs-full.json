@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 3995-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3995",
-      "reportAmount": "2",
-      "UTDate": "2025-07-15 21:17 UT",
-      "country": "FR",
-      "location": "Nouvelle-Aquitaine",
-      "color": "Bleu clair",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 3994-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3994",
-      "reportAmount": "2",
-      "UTDate": "2025-07-15 21:30 UT",
-      "country": "FR",
-      "location": "Bourgogne-Franche-Comté, Provence-Alpes-Côte d'Azur",
-      "color": "Entre jaune et orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 780
-    },
-    {
       "eventID": "Event 3997-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/3997",
       "reportAmount": "10",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "6",
       "fragmentationPositive": "2",
       "fragmentationNegative": "7",
-      "timeSinceLastEntry": 13500
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 4015-2025",
@@ -755,8 +723,8 @@
     {
       "eventID": "Event 4163-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4163",
-      "reportAmount": "5",
-      "UTDate": "2025-07-22 08:18 UT",
+      "reportAmount": "6",
+      "UTDate": "2025-07-22 08:20 UT",
       "country": "US  CA",
       "location": "Massachusetts, New Brunswick, New Hampshire, Vermont",
       "color": "Orange",
@@ -765,8 +733,8 @@
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "3",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 420
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 540
     },
     {
       "eventID": "Event 4169-2025",
@@ -782,7 +750,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 43200
+      "timeSinceLastEntry": 43080
     },
     {
       "eventID": "Event 4170-2025",
@@ -799,6 +767,38 @@
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
       "timeSinceLastEntry": 2400
+    },
+    {
+      "eventID": "Event 4175-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4175",
+      "reportAmount": "4",
+      "UTDate": "2025-07-23 02:31 UT",
+      "country": "US",
+      "location": "Illinois, Wisconsin",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "4",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "4",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 19980
+    },
+    {
+      "eventID": "Event 4174-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4174",
+      "reportAmount": "3",
+      "UTDate": "2025-07-23 02:47 UT",
+      "country": "US",
+      "location": "Indiana, Michigan, Pennsylvania",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 960
     }
   ]
 }

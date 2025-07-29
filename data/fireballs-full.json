@@ -531,8 +531,8 @@
     {
       "eventID": "Event 4276-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4276",
-      "reportAmount": "57",
-      "UTDate": "2025-07-26 09:07 UT",
+      "reportAmount": "58",
+      "UTDate": "2025-07-26 09:08 UT",
       "country": "US",
       "location": "FL, GA, NC, NJ, PA, SC, TN, VA, WV",
       "color": "White",
@@ -541,8 +541,8 @@
       "concurrentSoundPositive": "1",
       "concurrentSoundNegative": "43",
       "fragmentationPositive": "5",
-      "fragmentationNegative": "36",
-      "timeSinceLastEntry": 3840
+      "fragmentationNegative": "37",
+      "timeSinceLastEntry": 3900
     },
     {
       "eventID": "Event 4279-2025",
@@ -558,7 +558,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "2",
       "fragmentationNegative": "",
-      "timeSinceLastEntry": 8340
+      "timeSinceLastEntry": 8280
     },
     {
       "eventID": "Event 4282-2025",
@@ -579,17 +579,17 @@
     {
       "eventID": "Event 4285-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4285",
-      "reportAmount": "21",
+      "reportAmount": "22",
       "UTDate": "2025-07-26 22:35 UT",
       "country": "NL  GB  FR  DE",
       "location": "Baden-Württemberg, Bayern, England, Gelderland, Hauts-de-France, Niedersachsen, Overijssel, Rheinland-Pfalz, Zeeland",
       "color": "White",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "17",
+      "delayedSoundNegative": "18",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "15",
+      "concurrentSoundNegative": "16",
       "fragmentationPositive": "",
-      "fragmentationNegative": "15",
+      "fragmentationNegative": "16",
       "timeSinceLastEntry": 5760
     },
     {
@@ -627,17 +627,17 @@
     {
       "eventID": "Event 4298-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4298",
-      "reportAmount": "2",
+      "reportAmount": "3",
       "UTDate": "2025-07-27 06:10 UT",
       "country": "US",
-      "location": "CO",
+      "location": "CO, Colorado",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
+      "fragmentationNegative": "3",
       "timeSinceLastEntry": 6180
     },
     {
@@ -739,18 +739,18 @@
     {
       "eventID": "Event 4325-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4325",
-      "reportAmount": "4",
-      "UTDate": "2025-07-28 03:24 UT",
+      "reportAmount": "6",
+      "UTDate": "2025-07-28 03:30 UT",
       "country": "US",
-      "location": "CT, NJ, NY",
-      "color": "Orange",
+      "location": "CT, NJ, NY, PA",
+      "color": "Light Yellow",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
+      "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 2340
+      "fragmentationNegative": "5",
+      "timeSinceLastEntry": 2700
     },
     {
       "eventID": "Event 4334-2025",
@@ -766,7 +766,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 8700
+      "timeSinceLastEntry": 8340
     },
     {
       "eventID": "Event 4338-2025",

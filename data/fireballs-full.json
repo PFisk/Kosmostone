@@ -371,18 +371,18 @@
     {
       "eventID": "Event 4257-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4257",
-      "reportAmount": "6",
-      "UTDate": "2025-07-26 00:49 UT",
+      "reportAmount": "8",
+      "UTDate": "2025-07-26 00:52 UT",
       "country": "US",
-      "location": "CT, MA, RI",
+      "location": "CT, MA, NY, RI",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
+      "delayedSoundNegative": "6",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "5",
       "fragmentationPositive": "",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 4380
+      "fragmentationNegative": "5",
+      "timeSinceLastEntry": 4560
     },
     {
       "eventID": "Event 4258-2025",
@@ -398,7 +398,7 @@
       "concurrentSoundNegative": "",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 1260
+      "timeSinceLastEntry": 1080
     },
     {
       "eventID": "Event 4259-2025",

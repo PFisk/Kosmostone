@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 4194-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4194",
-      "reportAmount": "5",
-      "UTDate": "2025-07-23 21:24 UT",
-      "country": "IT",
-      "location": "Apulia, Basilicata, Calabria, Sicilia",
-      "color": "Giallo",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 4196-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4196",
       "reportAmount": "2",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 5340
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 4198-2025",
@@ -257,6 +241,22 @@
       "timeSinceLastEntry": 5340
     },
     {
+      "eventID": "Event 4235-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4235",
+      "reportAmount": "2",
+      "UTDate": "2025-07-25 02:20 UT",
+      "country": "US",
+      "location": "FL",
+      "color": "Dark Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 720
+    },
+    {
       "eventID": "Event 4236-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4236",
       "reportAmount": "4",
@@ -270,7 +270,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 3120
+      "timeSinceLastEntry": 2400
     },
     {
       "eventID": "Event 4264-2025",

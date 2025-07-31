@@ -1,20 +1,20 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 4356-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4356",
-      "reportAmount": "8",
-      "UTDate": "2025-07-31 03:49 UT",
-      "country": "VE  CO",
-      "location": "Bogotá, Meta, Norte de Santander, Santander, Táchira",
-      "color": "Light Blue",
+      "eventID": "Event 4235-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4235",
+      "reportAmount": "2",
+      "UTDate": "2025-07-25 02:20 UT",
+      "country": "US",
+      "location": "FL",
+      "color": "Dark Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "6",
+      "delayedSoundNegative": "1",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
+      "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
-      "fragmentationNegative": "5",
-      "timeSinceLastEntry": 238560
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 720
     }
   ]
 }

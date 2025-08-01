@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 4198-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4198",
-      "reportAmount": "20",
-      "UTDate": "2025-07-23 23:29 UT",
-      "country": "PL  DE  CZ",
-      "location": ", Ústecký kraj, Bayern, Brandenburg, Jihomoravský kraj, Lower Silesian Voivodeship, Niedersachsen, Sachsen, Sachsen-Anhalt, Thüringen",
-      "color": "Hellgrün",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "13",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "11",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "10",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 4199-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4199",
       "reportAmount": "5",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 7200
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 4203-2025",
@@ -193,6 +177,22 @@
       "timeSinceLastEntry": 1620
     },
     {
+      "eventID": "Event 4293-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4293",
+      "reportAmount": "2",
+      "UTDate": "2025-07-24 22:47 UT",
+      "country": "BR",
+      "location": "Minas Gerais",
+      "color": "Azul claro",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 120
+    },
+    {
       "eventID": "Event 4231-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4231",
       "reportAmount": "42",
@@ -206,7 +206,7 @@
       "concurrentSoundNegative": "37",
       "fragmentationPositive": "19",
       "fragmentationNegative": "18",
-      "timeSinceLastEntry": 6840
+      "timeSinceLastEntry": 6720
     },
     {
       "eventID": "Event 4234-2025",

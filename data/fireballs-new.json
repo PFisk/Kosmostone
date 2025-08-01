@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 4293-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4293",
+      "reportAmount": "2",
+      "UTDate": "2025-07-24 22:47 UT",
+      "country": "BR",
+      "location": "Minas Gerais",
+      "color": "Azul claro",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 120
+    }
+  ]
 }

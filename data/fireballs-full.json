@@ -739,15 +739,15 @@
     {
       "eventID": "Event 4434-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4434",
-      "reportAmount": "13",
+      "reportAmount": "14",
       "UTDate": "2025-07-31 01:39 UT",
       "country": "US",
       "location": "TX",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "11",
+      "delayedSoundNegative": "12",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "10",
+      "concurrentSoundNegative": "11",
       "fragmentationPositive": "5",
       "fragmentationNegative": "7",
       "timeSinceLastEntry": 3660

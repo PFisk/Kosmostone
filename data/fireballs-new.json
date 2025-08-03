@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 4433-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4433",
-      "reportAmount": "4",
-      "UTDate": "2025-07-31 00:38 UT",
-      "country": "GB",
-      "location": "England",
-      "color": "Light Blue and whitish",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 7080
-    },
-    {
-      "eventID": "Event 4434-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4434",
-      "reportAmount": "12",
-      "UTDate": "2025-07-31 01:38 UT",
-      "country": "US",
-      "location": "TX",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "10",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "9",
-      "fragmentationPositive": "4",
-      "fragmentationNegative": "7",
-      "timeSinceLastEntry": 3600
-    }
-  ]
+  "fireballs": []
 }

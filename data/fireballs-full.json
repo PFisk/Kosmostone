@@ -1,6 +1,22 @@
 {
   "fireballs": [
     {
+      "eventID": "Event 4462-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4462",
+      "reportAmount": "2",
+      "UTDate": "2025-07-31 23:56 UT",
+      "country": "JO  LB",
+      "location": "Amman Governorate, Mount Lebanon Governorate",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": null
+    },
+    {
       "eventID": "Event 4361-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4361",
       "reportAmount": "15",
@@ -14,7 +30,7 @@
       "concurrentSoundNegative": "11",
       "fragmentationPositive": "1",
       "fragmentationNegative": "9",
-      "timeSinceLastEntry": null
+      "timeSinceLastEntry": 1740
     },
     {
       "eventID": "Event 4463-2025",
@@ -566,7 +582,7 @@
       "reportAmount": "11",
       "UTDate": "2025-08-03 04:54 UT",
       "country": "US",
-      "location": "NM, OK, Texas, TX",
+      "location": "NM, OK, TX",
       "color": "Orange",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "10",
@@ -659,18 +675,18 @@
     {
       "eventID": "Event 4580-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4580",
-      "reportAmount": "2",
-      "UTDate": "2025-08-03 21:30 UT",
-      "country": "AT  IT",
-      "location": "Veneto, Wien",
+      "reportAmount": "3",
+      "UTDate": "2025-08-03 21:31 UT",
+      "country": "IT  AT",
+      "location": "Trentino-Alto Adige, Veneto, Wien",
       "color": "Bianco",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "1",
+      "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 51000
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 51060
     },
     {
       "eventID": "Event 4581-2025",
@@ -686,7 +702,7 @@
       "concurrentSoundNegative": "6",
       "fragmentationPositive": "1",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 5040
+      "timeSinceLastEntry": 4980
     },
     {
       "eventID": "Event 4582-2025",
@@ -739,40 +755,40 @@
     {
       "eventID": "Event 4588-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4588",
-      "reportAmount": "6",
-      "UTDate": "2025-08-04 03:08 UT",
+      "reportAmount": "7",
+      "UTDate": "2025-08-04 03:09 UT",
       "country": "US",
       "location": "AZ, CA",
       "color": "Light Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
+      "delayedSoundNegative": "6",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
+      "concurrentSoundNegative": "6",
       "fragmentationPositive": "2",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 1980
+      "fragmentationNegative": "5",
+      "timeSinceLastEntry": 2040
     },
     {
       "eventID": "Event 4573-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4573",
-      "reportAmount": "15",
+      "reportAmount": "16",
       "UTDate": "2025-08-04 03:17 UT",
       "country": "US",
       "location": "AZ, CA, NV",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "10",
+      "delayedSoundNegative": "11",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "11",
+      "concurrentSoundNegative": "12",
       "fragmentationPositive": "2",
-      "fragmentationNegative": "8",
-      "timeSinceLastEntry": 540
+      "fragmentationNegative": "9",
+      "timeSinceLastEntry": 480
     },
     {
       "eventID": "Event 4576-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4576",
-      "reportAmount": "3",
-      "UTDate": "2025-08-04 04:19 UT",
+      "reportAmount": "4",
+      "UTDate": "2025-08-04 04:21 UT",
       "country": "US",
       "location": "CO, UT, WY",
       "color": "Light Blue",
@@ -781,24 +797,8 @@
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 3720
-    },
-    {
-      "eventID": "Event 4578-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4578",
-      "reportAmount": "2",
-      "UTDate": "2025-08-04 06:31 UT",
-      "country": "US",
-      "location": "CA, NV",
-      "color": "Purple",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 7920
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 3840
     }
   ]
 }

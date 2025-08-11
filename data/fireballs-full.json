@@ -179,17 +179,17 @@
     {
       "eventID": "Event 4573-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4573",
-      "reportAmount": "16",
+      "reportAmount": "17",
       "UTDate": "2025-08-04 03:17 UT",
       "country": "US",
       "location": "AZ, CA, NV",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "11",
+      "delayedSoundNegative": "12",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "12",
+      "concurrentSoundNegative": "13",
       "fragmentationPositive": "2",
-      "fragmentationNegative": "9",
+      "fragmentationNegative": "10",
       "timeSinceLastEntry": 480
     },
     {

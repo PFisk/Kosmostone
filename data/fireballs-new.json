@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 4726-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4726",
-      "reportAmount": "5",
-      "UTDate": "2025-08-10 09:24 UT",
-      "country": "AU",
-      "location": "Victoria",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 109440
-    },
-    {
-      "eventID": "Event 4727-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4727",
-      "reportAmount": "5",
-      "UTDate": "2025-08-10 10:49 UT",
-      "country": "AU",
-      "location": "Victoria",
-      "color": "Yellow",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 5100
-    }
-  ]
+  "fireballs": []
 }

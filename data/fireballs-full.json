@@ -755,18 +755,18 @@
     {
       "eventID": "Event 4772-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4772",
-      "reportAmount": "7",
-      "UTDate": "2025-08-09 21:50 UT",
+      "reportAmount": "9",
+      "UTDate": "2025-08-09 21:51 UT",
       "country": "GB  FR",
       "location": "Bretagna, Bretagne, Brittany, England, Pays de la Loire",
       "color": "Blanc",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
+      "delayedSoundNegative": "7",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "5",
+      "concurrentSoundNegative": "7",
       "fragmentationPositive": "",
-      "fragmentationNegative": "5",
-      "timeSinceLastEntry": 3480
+      "fragmentationNegative": "7",
+      "timeSinceLastEntry": 3540
     },
     {
       "eventID": "Event 4726-2025",
@@ -782,7 +782,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
       "fragmentationNegative": "4",
-      "timeSinceLastEntry": 41640
+      "timeSinceLastEntry": 41580
     },
     {
       "eventID": "Event 4727-2025",

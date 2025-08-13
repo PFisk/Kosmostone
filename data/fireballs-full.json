@@ -1,54 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 4588-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4588",
-      "reportAmount": "7",
-      "UTDate": "2025-08-04 03:09 UT",
-      "country": "US",
-      "location": "AZ, CA",
-      "color": "Light Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "6",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "6",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "5",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 4573-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4573",
-      "reportAmount": "17",
-      "UTDate": "2025-08-04 03:17 UT",
-      "country": "US",
-      "location": "AZ, CA, NV",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "12",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "13",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "10",
-      "timeSinceLastEntry": 480
-    },
-    {
-      "eventID": "Event 4576-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4576",
-      "reportAmount": "4",
-      "UTDate": "2025-08-04 04:21 UT",
-      "country": "US",
-      "location": "CO, UT, WY",
-      "color": "Light Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 3840
-    },
-    {
       "eventID": "Event 4592-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4592",
       "reportAmount": "2",
@@ -62,7 +14,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 14760
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 4596-2025",
@@ -131,17 +83,17 @@
     {
       "eventID": "Event 4628-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4628",
-      "reportAmount": "82",
+      "reportAmount": "83",
       "UTDate": "2025-08-05 19:17 UT",
       "country": "SE  DK  DE",
       "location": ", Hallands län, Kronobergs län, Mecklenburg-Vorpommern, Schleswig-Holstein, Skåne County, Skåne län, Västra Götaland County",
       "color": "White",
       "delayedSoundPositive": "2",
-      "delayedSoundNegative": "64",
+      "delayedSoundNegative": "65",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "65",
+      "concurrentSoundNegative": "66",
       "fragmentationPositive": "10",
-      "fragmentationNegative": "52",
+      "fragmentationNegative": "53",
       "timeSinceLastEntry": 41040
     },
     {
@@ -241,6 +193,22 @@
       "timeSinceLastEntry": 420
     },
     {
+      "eventID": "Event 4637-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4637",
+      "reportAmount": "2",
+      "UTDate": "2025-08-06 02:41 UT",
+      "country": "CA",
+      "location": "Québec",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 1680
+    },
+    {
       "eventID": "Event 4644-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4644",
       "reportAmount": "2",
@@ -254,7 +222,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 11520
+      "timeSinceLastEntry": 9840
     },
     {
       "eventID": "Event 4645-2025",
@@ -755,17 +723,49 @@
     {
       "eventID": "Event 4772-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4772",
-      "reportAmount": "9",
-      "UTDate": "2025-08-09 21:51 UT",
+      "reportAmount": "13",
+      "UTDate": "2025-08-09 21:56 UT",
       "country": "GB  FR",
-      "location": "Bretagna, Bretagne, Brittany, England, Pays de la Loire",
+      "location": "Bretagna, Bretagne, Brittany, England, Normandie, Pays de la Loire",
       "color": "Blanc",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "7",
+      "delayedSoundNegative": "10",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "7",
+      "concurrentSoundNegative": "10",
       "fragmentationPositive": "",
-      "fragmentationNegative": "7",
+      "fragmentationNegative": "9",
+      "timeSinceLastEntry": 3840
+    },
+    {
+      "eventID": "Event 4778-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4778",
+      "reportAmount": "6",
+      "UTDate": "2025-08-09 23:34 UT",
+      "country": "DE",
+      "location": "Bayern, Nordrhein-Westfalen, Sachsen, Schleswig-Holstein",
+      "color": "Grün",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "6",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "6",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 5880
+    },
+    {
+      "eventID": "Event 4782-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4782",
+      "reportAmount": "3",
+      "UTDate": "2025-08-10 00:33 UT",
+      "country": "CA  US",
+      "location": "NH, Québec, Quebec",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "1",
       "timeSinceLastEntry": 3540
     },
     {
@@ -782,7 +782,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
       "fragmentationNegative": "4",
-      "timeSinceLastEntry": 41580
+      "timeSinceLastEntry": 31860
     },
     {
       "eventID": "Event 4727-2025",

@@ -403,18 +403,18 @@
     {
       "eventID": "Event 4778-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4778",
-      "reportAmount": "6",
-      "UTDate": "2025-08-09 23:34 UT",
+      "reportAmount": "7",
+      "UTDate": "2025-08-09 23:36 UT",
       "country": "DE",
-      "location": "Bayern, Nordrhein-Westfalen, Sachsen, Schleswig-Holstein",
+      "location": "Bayern, Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt, Schleswig-Holstein",
       "color": "Grün",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "6",
+      "delayedSoundNegative": "7",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "6",
+      "concurrentSoundNegative": "7",
       "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": 5880
+      "fragmentationNegative": "4",
+      "timeSinceLastEntry": 6000
     },
     {
       "eventID": "Event 4782-2025",
@@ -430,7 +430,7 @@
       "concurrentSoundNegative": "5",
       "fragmentationPositive": "2",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 4380
+      "timeSinceLastEntry": 4260
     },
     {
       "eventID": "Event 4786-2025",

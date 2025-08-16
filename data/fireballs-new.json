@@ -1,3 +1,52 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 4893-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4893",
+      "reportAmount": "2",
+      "UTDate": "2025-08-12 20:13 UT",
+      "country": "DE",
+      "location": "Brandenburg, Niedersachsen",
+      "color": "Weiß",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 360
+    },
+    {
+      "eventID": "Event 4895-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4895",
+      "reportAmount": "3",
+      "UTDate": "2025-08-12 20:36 UT",
+      "country": "ES  FR",
+      "location": "Catalogne, Catalunya, Nouvelle-Aquitaine",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 1380
+    },
+    {
+      "eventID": "Event 4894-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4894",
+      "reportAmount": "13",
+      "UTDate": "2025-08-12 20:41 UT",
+      "country": "NL  GB  FR  DE",
+      "location": "Île-de-France, England, Gelderland, Groningen, Niedersachsen, Nordrhein-Westfalen, South Holland, Utrecht",
+      "color": "Gelb",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "11",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "10",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "6",
+      "timeSinceLastEntry": 300
+    }
+  ]
 }

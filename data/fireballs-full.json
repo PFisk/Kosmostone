@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 4862-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4862",
-      "reportAmount": "2",
-      "UTDate": "2025-08-12 03:58 UT",
-      "country": "US",
-      "location": "NM",
-      "color": "Blue White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 4858-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4858",
       "reportAmount": "4",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 60
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 4865-2025",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
       "timeSinceLastEntry": 34980
+    },
+    {
+      "eventID": "Event 4996-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/4996",
+      "reportAmount": "103",
+      "UTDate": "2025-08-17 01:32 UT",
+      "country": "US",
+      "location": ", Arkansas, Illinois, Indiana, Iowa, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, Tennessee, Texas, TX",
+      "color": "Green",
+      "delayedSoundPositive": "3",
+      "delayedSoundNegative": "76",
+      "concurrentSoundPositive": "2",
+      "concurrentSoundNegative": "77",
+      "fragmentationPositive": "44",
+      "fragmentationNegative": "44",
+      "timeSinceLastEntry": 198300
     }
   ]
 }

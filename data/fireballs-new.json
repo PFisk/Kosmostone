@@ -1,20 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 5103-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5103",
-      "reportAmount": "2",
-      "UTDate": "2025-08-16 14:37 UT",
-      "country": "BR",
-      "location": "Bahia, Piauí",
-      "color": "Azul escuro",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 14820
-    }
-  ]
+  "fireballs": []
 }

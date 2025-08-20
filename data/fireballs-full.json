@@ -787,18 +787,18 @@
     {
       "eventID": "Event 5130-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5130",
-      "reportAmount": "16",
-      "UTDate": "2025-08-20 02:37 UT",
+      "reportAmount": "17",
+      "UTDate": "2025-08-20 02:36 UT",
       "country": "US",
       "location": "NJ, NY, PA, TN, VA",
       "color": "Green",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "12",
+      "delayedSoundNegative": "13",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "12",
+      "concurrentSoundNegative": "13",
       "fragmentationPositive": "",
-      "fragmentationNegative": "12",
-      "timeSinceLastEntry": 1680
+      "fragmentationNegative": "13",
+      "timeSinceLastEntry": 1620
     }
   ]
 }

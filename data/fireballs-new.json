@@ -1,3 +1,36 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5223-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5223",
+      "reportAmount": "4",
+      "UTDate": "2025-08-23 04:00 UT",
+      "country": "US",
+      "location": "MN, North Dakota",
+      "color": "Blue",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 3360
+    },
+    {
+      "eventID": "Event 5225-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5225",
+      "reportAmount": "2",
+      "UTDate": "2025-08-23 04:48 UT",
+      "country": "CA",
+      "location": "British Columbia",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 1200
+    }
+  ]
 }

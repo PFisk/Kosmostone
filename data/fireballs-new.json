@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5235-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5235",
+      "reportAmount": "2",
+      "UTDate": "2025-08-22 03:30 UT",
+      "country": "US",
+      "location": "CA, California",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 1080
+    }
+  ]
 }

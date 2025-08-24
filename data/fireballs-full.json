@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5109-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5109",
-      "reportAmount": "2",
-      "UTDate": "2025-08-18 23:05 UT",
-      "country": "DK  NL",
-      "location": ", Flevoland",
-      "color": "Wit",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 5110-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5110",
       "reportAmount": "2",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 5220
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5113-2025",
@@ -449,6 +433,22 @@
       "timeSinceLastEntry": 6960
     },
     {
+      "eventID": "Event 5235-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5235",
+      "reportAmount": "2",
+      "UTDate": "2025-08-22 03:30 UT",
+      "country": "US",
+      "location": "CA, California",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 1080
+    },
+    {
       "eventID": "Event 5195-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5195",
       "reportAmount": "10",
@@ -462,7 +462,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "2",
       "fragmentationNegative": "5",
-      "timeSinceLastEntry": 2700
+      "timeSinceLastEntry": 1620
     },
     {
       "eventID": "Event 5206-2025",
@@ -547,18 +547,18 @@
     {
       "eventID": "Event 5212-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5212",
-      "reportAmount": "2",
-      "UTDate": "2025-08-22 22:17 UT",
-      "country": "DE  DK",
-      "location": ", Brandenburg",
+      "reportAmount": "3",
+      "UTDate": "2025-08-22 22:26 UT",
+      "country": "DK  DE",
+      "location": ", Brandenburg, Mecklenburg-Vorpommern",
       "color": "Light Yellow",
-      "delayedSoundPositive": "1",
+      "delayedSoundPositive": "2",
       "delayedSoundNegative": "1",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
       "fragmentationNegative": "",
-      "timeSinceLastEntry": 1920
+      "timeSinceLastEntry": 2460
     },
     {
       "eventID": "Event 5214-2025",
@@ -574,7 +574,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "1",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 10500
+      "timeSinceLastEntry": 9960
     },
     {
       "eventID": "Event 5216-2025",

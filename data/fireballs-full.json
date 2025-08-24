@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5097-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5097",
-      "reportAmount": "4",
-      "UTDate": "2025-08-18 20:39 UT",
-      "country": "DE",
-      "location": "Brandenburg, Nordrhein-Westfalen, Schleswig-Holstein",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "4",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "4",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 5098-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5098",
-      "reportAmount": "3",
-      "UTDate": "2025-08-18 21:00 UT",
-      "country": "DE",
-      "location": "Berlin, Brandenburg",
-      "color": "Gelb",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 1260
-    },
-    {
       "eventID": "Event 5109-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5109",
       "reportAmount": "2",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "",
-      "timeSinceLastEntry": 7500
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5110-2025",
@@ -799,6 +767,38 @@
       "fragmentationPositive": "2",
       "fragmentationNegative": "4",
       "timeSinceLastEntry": 6300
+    },
+    {
+      "eventID": "Event 5251-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5251",
+      "reportAmount": "11",
+      "UTDate": "2025-08-24 00:50 UT",
+      "country": "US",
+      "location": "Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Vermont",
+      "color": "White",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "9",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "11",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "5",
+      "timeSinceLastEntry": 7800
+    },
+    {
+      "eventID": "Event 5253-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5253",
+      "reportAmount": "2",
+      "UTDate": "2025-08-24 02:30 UT",
+      "country": "CA  US",
+      "location": "Ontario, Wisconsin",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 6000
     }
   ]
 }

@@ -1,3 +1,36 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5260-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5260",
+      "reportAmount": "2",
+      "UTDate": "2025-08-23 06:29 UT",
+      "country": "US",
+      "location": "Michigan, Ohio",
+      "color": "Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 4800
+    },
+    {
+      "eventID": "Event 5248-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5248",
+      "reportAmount": "2",
+      "UTDate": "2025-08-23 21:19 UT",
+      "country": "FR",
+      "location": "Auvergne-Rhône-Alpes",
+      "color": "Jaune",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 1440
+    }
+  ]
 }

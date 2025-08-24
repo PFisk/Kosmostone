@@ -1,3 +1,36 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5109-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5109",
+      "reportAmount": "2",
+      "UTDate": "2025-08-18 23:05 UT",
+      "country": "DK  NL",
+      "location": ", Flevoland",
+      "color": "Wit",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 7500
+    },
+    {
+      "eventID": "Event 5219-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5219",
+      "reportAmount": "2",
+      "UTDate": "2025-08-23 01:48 UT",
+      "country": "US",
+      "location": "OK, Oklahoma",
+      "color": "White",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 480
+    }
+  ]
 }

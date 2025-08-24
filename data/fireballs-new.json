@@ -1,36 +1,52 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5260-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5260",
-      "reportAmount": "2",
-      "UTDate": "2025-08-23 06:29 UT",
+      "eventID": "Event 5255-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5255",
+      "reportAmount": "10",
+      "UTDate": "2025-08-24 04:36 UT",
       "country": "US",
-      "location": "Michigan, Ohio",
+      "location": "California, Nevada",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
+      "delayedSoundNegative": "10",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 4800
+      "concurrentSoundNegative": "10",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "8",
+      "timeSinceLastEntry": 7560
     },
     {
-      "eventID": "Event 5248-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5248",
-      "reportAmount": "2",
-      "UTDate": "2025-08-23 21:19 UT",
-      "country": "FR",
-      "location": "Auvergne-Rhône-Alpes",
-      "color": "Jaune",
+      "eventID": "Event 5267-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5267",
+      "reportAmount": "4",
+      "UTDate": "2025-08-24 05:29 UT",
+      "country": "US",
+      "location": "Massachusetts, New Jersey, New York, Ohio",
+      "color": "Green",
       "delayedSoundPositive": "",
       "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 1440
+      "fragmentationPositive": "",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 3180
+    },
+    {
+      "eventID": "Event 5269-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5269",
+      "reportAmount": "3",
+      "UTDate": "2025-08-24 06:18 UT",
+      "country": "US",
+      "location": "New York, Pennsylvania",
+      "color": "Dark Green",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 2940
     }
   ]
 }

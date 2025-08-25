@@ -659,18 +659,18 @@
     {
       "eventID": "Event 5246-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5246",
-      "reportAmount": "3",
-      "UTDate": "2025-08-23 20:55 UT",
-      "country": "DK  DE  NL",
-      "location": ", Noord-Brabant, Nordrhein-Westfalen",
+      "reportAmount": "4",
+      "UTDate": "2025-08-23 20:53 UT",
+      "country": "NL  DK  DE",
+      "location": ", Gelderland, Noord-Brabant, Nordrhein-Westfalen",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
+      "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 5400
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 5280
     },
     {
       "eventID": "Event 5248-2025",
@@ -686,7 +686,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 1440
+      "timeSinceLastEntry": 1560
     },
     {
       "eventID": "Event 5249-2025",
@@ -707,17 +707,17 @@
     {
       "eventID": "Event 5251-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5251",
-      "reportAmount": "20",
+      "reportAmount": "21",
       "UTDate": "2025-08-24 00:52 UT",
       "country": "US",
-      "location": "CT, MA, ME, NH, NJ, NY, PA, VT",
+      "location": "Connecticut, CT, MA, ME, NH, NJ, NY, PA, VT",
       "color": "White",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "18",
+      "delayedSoundNegative": "19",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "20",
+      "concurrentSoundNegative": "21",
       "fragmentationPositive": "4",
-      "fragmentationNegative": "9",
+      "fragmentationNegative": "10",
       "timeSinceLastEntry": 7620
     },
     {
@@ -771,18 +771,18 @@
     {
       "eventID": "Event 5269-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5269",
-      "reportAmount": "5",
-      "UTDate": "2025-08-24 06:20 UT",
-      "country": "US",
-      "location": "NY, PA",
+      "reportAmount": "53",
+      "UTDate": "2025-08-24 06:31 UT",
+      "country": "US  CA",
+      "location": "CT, MD, MI, NJ, NY, OH, Ontario, PA, VA",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "5",
+      "delayedSoundNegative": "36",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "5",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "4",
-      "timeSinceLastEntry": 3300
+      "concurrentSoundNegative": "35",
+      "fragmentationPositive": "12",
+      "fragmentationNegative": "23",
+      "timeSinceLastEntry": 3960
     },
     {
       "eventID": "Event 5273-2025",
@@ -798,7 +798,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 70560
+      "timeSinceLastEntry": 69900
     }
   ]
 }

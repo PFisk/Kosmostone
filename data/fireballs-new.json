@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 5270-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5270",
-      "reportAmount": "2",
-      "UTDate": "2025-08-21 10:59 UT",
-      "country": "BR",
-      "location": "Paraná",
-      "color": "Branco",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 3600
-    },
-    {
-      "eventID": "Event 5273-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5273",
-      "reportAmount": "2",
-      "UTDate": "2025-08-25 01:56 UT",
-      "country": "UY",
-      "location": "Departamento de Montevideo",
-      "color": "Light Yellow",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 70680
-    }
-  ]
+  "fireballs": []
 }

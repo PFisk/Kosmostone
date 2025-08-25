@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5119-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5119",
-      "reportAmount": "2",
-      "UTDate": "2025-08-19 05:13 UT",
-      "country": "US",
-      "location": "OH, PA",
-      "color": "Light Blue",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 5123-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5123",
-      "reportAmount": "2",
-      "UTDate": "2025-08-19 19:33 UT",
-      "country": "SE",
-      "location": "Östergötlands län, Stockholms län",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 51600
-    },
-    {
       "eventID": "Event 5125-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5125",
       "reportAmount": "2",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 6060
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5140-2025",
@@ -273,6 +241,22 @@
       "timeSinceLastEntry": 14520
     },
     {
+      "eventID": "Event 5270-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5270",
+      "reportAmount": "2",
+      "UTDate": "2025-08-21 10:59 UT",
+      "country": "BR",
+      "location": "Paraná",
+      "color": "Branco",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 3600
+    },
+    {
       "eventID": "Event 5182-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5182",
       "reportAmount": "3",
@@ -286,7 +270,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 39180
+      "timeSinceLastEntry": 35580
     },
     {
       "eventID": "Event 5185-2025",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
       "timeSinceLastEntry": 2940
+    },
+    {
+      "eventID": "Event 5273-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5273",
+      "reportAmount": "2",
+      "UTDate": "2025-08-25 01:56 UT",
+      "country": "UY",
+      "location": "Departamento de Montevideo",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 70680
     }
   ]
 }

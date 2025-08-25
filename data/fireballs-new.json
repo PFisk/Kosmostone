@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5243-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5243",
+      "reportAmount": "2",
+      "UTDate": "2025-08-23 09:40 UT",
+      "country": "US",
+      "location": "NY, WI",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 11400
+    }
+  ]
 }

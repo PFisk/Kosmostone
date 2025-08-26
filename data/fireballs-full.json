@@ -499,18 +499,18 @@
     {
       "eventID": "Event 5251-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5251",
-      "reportAmount": "21",
-      "UTDate": "2025-08-24 00:52 UT",
+      "reportAmount": "22",
+      "UTDate": "2025-08-24 00:51 UT",
       "country": "US",
-      "location": "Connecticut, CT, MA, ME, NH, NJ, NY, PA, VT",
+      "location": "CT, MA, ME, New Jersey, NH, NJ, NY, PA, VT",
       "color": "White",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "19",
+      "delayedSoundNegative": "20",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "21",
+      "concurrentSoundNegative": "22",
       "fragmentationPositive": "4",
-      "fragmentationNegative": "10",
-      "timeSinceLastEntry": 7620
+      "fragmentationNegative": "11",
+      "timeSinceLastEntry": 7560
     },
     {
       "eventID": "Event 5253-2025",
@@ -526,7 +526,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 5880
+      "timeSinceLastEntry": 5940
     },
     {
       "eventID": "Event 5255-2025",
@@ -659,8 +659,8 @@
     {
       "eventID": "Event 5299-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5299",
-      "reportAmount": "11",
-      "UTDate": "2025-08-25 03:31 UT",
+      "reportAmount": "12",
+      "UTDate": "2025-08-25 03:30 UT",
       "country": "US  CA",
       "location": "MI, OH, Ontario, PA, VA",
       "color": "White",
@@ -669,8 +669,8 @@
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "9",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "6",
-      "timeSinceLastEntry": 5700
+      "fragmentationNegative": "7",
+      "timeSinceLastEntry": 5640
     },
     {
       "eventID": "Event 5304-2025",
@@ -686,7 +686,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "1",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 13140
+      "timeSinceLastEntry": 13200
     },
     {
       "eventID": "Event 5305-2025",
@@ -707,17 +707,17 @@
     {
       "eventID": "Event 5307-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5307",
-      "reportAmount": "116",
+      "reportAmount": "130",
       "UTDate": "2025-08-25 09:41 UT",
       "country": "US  CA",
-      "location": ", IL, Illinois, IN, Indiana, Kentucky, KY, MI, Michigan, OH, Ohio, Ontario, PA, Pennsylvania, WI, Wisconsin",
+      "location": ", IL, IN, Kentucky, KY, MI, Michigan, OH, Ontario, PA, WI, Wisconsin",
       "color": "Green",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "89",
+      "delayedSoundNegative": "98",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "89",
+      "concurrentSoundNegative": "98",
       "fragmentationPositive": "14",
-      "fragmentationNegative": "60",
+      "fragmentationNegative": "69",
       "timeSinceLastEntry": 8760
     },
     {
@@ -771,34 +771,34 @@
     {
       "eventID": "Event 5314-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5314",
-      "reportAmount": "2",
-      "UTDate": "2025-08-25 20:20 UT",
-      "country": "BE  DE",
+      "reportAmount": "3",
+      "UTDate": "2025-08-25 20:01 UT",
+      "country": "DE  BE",
       "location": "Nordrhein-Westfalen, Vlaanderen",
       "color": "Gelb",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 2100
+      "timeSinceLastEntry": 960
     },
     {
       "eventID": "Event 5315-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5315",
-      "reportAmount": "47",
+      "reportAmount": "48",
       "UTDate": "2025-08-25 20:37 UT",
       "country": "PL  IT  GB  FR  ES  DE  AT",
       "location": ", Auvergne-Rhône-Alpes, Île-de-France, Baden-Württemberg, Bavaria, Bayern, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, England, Grand Est, Hauts-de-France, Hessen, Normandie, Normandy, Oberösterreich, Occitanie, Pays de la Loire, Rhineland-Palatinate, Siles",
       "color": "Blanc",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "43",
+      "delayedSoundNegative": "44",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "44",
+      "concurrentSoundNegative": "45",
       "fragmentationPositive": "",
-      "fragmentationNegative": "37",
-      "timeSinceLastEntry": 1020
+      "fragmentationNegative": "38",
+      "timeSinceLastEntry": 2160
     }
   ]
 }

@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5270-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5270",
-      "reportAmount": "2",
-      "UTDate": "2025-08-21 10:59 UT",
-      "country": "BR",
-      "location": "Paraná",
-      "color": "Branco",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 5182-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5182",
       "reportAmount": "3",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 35580
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5185-2025",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "2",
       "fragmentationNegative": "2",
       "timeSinceLastEntry": 8580
+    },
+    {
+      "eventID": "Event 5329-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5329",
+      "reportAmount": "49",
+      "UTDate": "2025-08-28 00:26 UT",
+      "country": "US",
+      "location": "Florida",
+      "color": "Orange",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "36",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "40",
+      "fragmentationPositive": "8",
+      "fragmentationNegative": "23",
+      "timeSinceLastEntry": 177900
     }
   ]
 }

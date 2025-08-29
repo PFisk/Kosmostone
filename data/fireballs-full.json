@@ -131,18 +131,18 @@
     {
       "eventID": "Event 5207-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5207",
-      "reportAmount": "2",
-      "UTDate": "2025-08-22 11:25 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-08-22 11:28 UT",
       "country": "US",
-      "location": "CA, NV",
+      "location": "CA, California, NV",
       "color": "Orange",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
+      "delayedSoundNegative": "3",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
+      "concurrentSoundNegative": "3",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 18900
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 19080
     },
     {
       "eventID": "Event 5209-2025",
@@ -158,7 +158,7 @@
       "concurrentSoundNegative": "5",
       "fragmentationPositive": "",
       "fragmentationNegative": "4",
-      "timeSinceLastEntry": 30300
+      "timeSinceLastEntry": 30120
     },
     {
       "eventID": "Event 5211-2025",

@@ -595,17 +595,17 @@
     {
       "eventID": "Event 5315-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5315",
-      "reportAmount": "63",
+      "reportAmount": "64",
       "UTDate": "2025-08-25 20:38 UT",
       "country": "UA  SK  PL  IT  GB  FR  ES  DE  CH  AT",
       "location": ", Aargau, Auvergne-Rhône-Alpes, Île-de-France, Baden-Württemberg, Bavaria, Bayern, Bern, Bourgogne-Franche-Comté, Bretagne, Centre-Val de Loire, England, Grand Est, Hauts-de-France, Hessen, Normandie, Normandy, Oberösterreich, Occitanie, Pays de la Loire, Poltava Oblast",
       "color": "Blanc",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "58",
+      "delayedSoundNegative": "59",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "58",
+      "concurrentSoundNegative": "59",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "50",
+      "fragmentationNegative": "51",
       "timeSinceLastEntry": 2220
     },
     {

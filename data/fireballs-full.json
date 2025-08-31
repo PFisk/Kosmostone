@@ -529,22 +529,6 @@
       "timeSinceLastEntry": 10440
     },
     {
-      "eventID": "Event 5387-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5387",
-      "reportAmount": "17",
-      "UTDate": "2025-08-28 00:26 UT",
-      "country": "US",
-      "location": "FL",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "12",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "13",
-      "fragmentationPositive": "2",
-      "fragmentationNegative": "9",
-      "timeSinceLastEntry": 2220
-    },
-    {
       "eventID": "Event 5329-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5329",
       "reportAmount": "50",
@@ -558,6 +542,22 @@
       "concurrentSoundNegative": "41",
       "fragmentationPositive": "9",
       "fragmentationNegative": "23",
+      "timeSinceLastEntry": 2220
+    },
+    {
+      "eventID": "Event 5387-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5387",
+      "reportAmount": "17",
+      "UTDate": "2025-08-28 00:26 UT",
+      "country": "US",
+      "location": "FL",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "12",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "13",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "9",
       "timeSinceLastEntry": 0
     },
     {
@@ -579,18 +579,18 @@
     {
       "eventID": "Event 5392-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5392",
-      "reportAmount": "5",
-      "UTDate": "2025-08-28 02:43 UT",
+      "reportAmount": "7",
+      "UTDate": "2025-08-28 02:44 UT",
       "country": "US",
-      "location": "DE, MD, NJ, VA",
+      "location": "DE, MD, NJ, North Carolina, VA",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "5",
       "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "3",
+      "concurrentSoundNegative": "5",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 5220
+      "timeSinceLastEntry": 5280
     },
     {
       "eventID": "Event 5394-2025",
@@ -606,7 +606,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 2340
+      "timeSinceLastEntry": 2280
     },
     {
       "eventID": "Event 5397-2025",

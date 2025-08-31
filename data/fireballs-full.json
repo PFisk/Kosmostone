@@ -577,22 +577,6 @@
       "timeSinceLastEntry": 10440
     },
     {
-      "eventID": "Event 5329-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5329",
-      "reportAmount": "50",
-      "UTDate": "2025-08-28 00:26 UT",
-      "country": "US",
-      "location": "FL",
-      "color": "Orange",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "37",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "41",
-      "fragmentationPositive": "9",
-      "fragmentationNegative": "23",
-      "timeSinceLastEntry": 2220
-    },
-    {
       "eventID": "Event 5387-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5387",
       "reportAmount": "17",
@@ -606,6 +590,22 @@
       "concurrentSoundNegative": "13",
       "fragmentationPositive": "2",
       "fragmentationNegative": "9",
+      "timeSinceLastEntry": 2220
+    },
+    {
+      "eventID": "Event 5329-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5329",
+      "reportAmount": "50",
+      "UTDate": "2025-08-28 00:26 UT",
+      "country": "US",
+      "location": "FL",
+      "color": "Orange",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "37",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "41",
+      "fragmentationPositive": "9",
+      "fragmentationNegative": "23",
       "timeSinceLastEntry": 0
     },
     {

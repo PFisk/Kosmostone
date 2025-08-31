@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5407-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5407",
+      "reportAmount": "2",
+      "UTDate": "2025-08-28 08:34 UT",
+      "country": "US",
+      "location": "CO, Colorado",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 1080
+    }
+  ]
 }

@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5329-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5329",
-      "reportAmount": "69",
-      "UTDate": "2025-08-28 00:26 UT",
-      "country": "US",
-      "location": "FL",
-      "color": "Orange",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "50",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "55",
-      "fragmentationPositive": "11",
-      "fragmentationNegative": "34",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 5388-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5388",
-      "reportAmount": "10",
-      "UTDate": "2025-08-28 01:16 UT",
-      "country": "US",
-      "location": "CT, MD, NJ, NY",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "7",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "6",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 3000
-    },
-    {
       "eventID": "Event 5392-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5392",
       "reportAmount": "7",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "5",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 5280
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5394-2025",
@@ -675,17 +643,17 @@
     {
       "eventID": "Event 5481-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5481",
-      "reportAmount": "2",
+      "reportAmount": "3",
       "UTDate": "2025-08-31 11:06 UT",
       "country": "CA",
       "location": "Alberta",
       "color": "Light Blue",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
+      "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
+      "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
+      "fragmentationNegative": "3",
       "timeSinceLastEntry": 2280
     },
     {
@@ -787,18 +755,50 @@
     {
       "eventID": "Event 5504-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5504",
-      "reportAmount": "54",
+      "reportAmount": "57",
       "UTDate": "2025-09-01 18:10 UT",
       "country": "SI  IT  HR  CZ  AT",
       "location": "Administrative unit Maribor, Žalec, Burgenland, City of Zagreb, Friuli-Venezia Giulia, Istria County, Karlovac County, Kärnten, Kraj Vysočina, Krško, Ljubljana, Lower Austria, Marche, Niederösterreich, Oberösterreich, Ribnica, Salzburg, Steiermark, Veneto, Wien, Zagreb",
       "color": "Weiß",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "44",
+      "delayedSoundNegative": "47",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "47",
+      "concurrentSoundNegative": "50",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "38",
+      "fragmentationNegative": "40",
       "timeSinceLastEntry": 27300
+    },
+    {
+      "eventID": "Event 5505-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5505",
+      "reportAmount": "2",
+      "UTDate": "2025-09-01 20:10 UT",
+      "country": "DE  GB",
+      "location": "England, Hessen",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 7200
+    },
+    {
+      "eventID": "Event 5508-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5508",
+      "reportAmount": "3",
+      "UTDate": "2025-09-02 17:46 UT",
+      "country": "GR  AL  IT",
+      "location": ", Sicilia, Vlorë County",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 77760
     }
   ]
 }

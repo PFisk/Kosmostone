@@ -691,8 +691,8 @@
     {
       "eventID": "Event 5495-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5495",
-      "reportAmount": "8",
-      "UTDate": "2025-09-01 03:15 UT",
+      "reportAmount": "9",
+      "UTDate": "2025-09-01 03:14 UT",
       "country": "US",
       "location": "IL, IN, OH",
       "color": "White",
@@ -702,7 +702,7 @@
       "concurrentSoundNegative": "8",
       "fragmentationPositive": "",
       "fragmentationNegative": "6",
-      "timeSinceLastEntry": 6300
+      "timeSinceLastEntry": 6240
     },
     {
       "eventID": "Event 5496-2025",
@@ -718,7 +718,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 1020
+      "timeSinceLastEntry": 1080
     },
     {
       "eventID": "Event 5499-2025",
@@ -755,17 +755,17 @@
     {
       "eventID": "Event 5504-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5504",
-      "reportAmount": "57",
+      "reportAmount": "60",
       "UTDate": "2025-09-01 18:10 UT",
       "country": "SI  IT  HR  CZ  AT",
       "location": "Administrative unit Maribor, Žalec, Burgenland, City of Zagreb, Friuli-Venezia Giulia, Istria County, Karlovac County, Kärnten, Kraj Vysočina, Krško, Ljubljana, Lower Austria, Marche, Niederösterreich, Oberösterreich, Ribnica, Salzburg, Steiermark, Veneto, Wien, Zagreb",
       "color": "Weiß",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "47",
+      "delayedSoundNegative": "50",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "50",
+      "concurrentSoundNegative": "53",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "40",
+      "fragmentationNegative": "43",
       "timeSinceLastEntry": 27300
     },
     {

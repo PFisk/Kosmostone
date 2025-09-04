@@ -1,3 +1,68 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5516-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5516",
+      "reportAmount": "2",
+      "UTDate": "2025-09-02 19:40 UT",
+      "country": "TR",
+      "location": "İstanbul, Manisa",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 6060
+    },
+    {
+      "eventID": "Event 5510-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5510",
+      "reportAmount": "5",
+      "UTDate": "2025-09-02 19:48 UT",
+      "country": "IT",
+      "location": "Sicilia",
+      "color": "Rosso",
+      "delayedSoundPositive": "1",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "4",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 480
+    },
+    {
+      "eventID": "Event 5517-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5517",
+      "reportAmount": "11",
+      "UTDate": "2025-09-02 20:47 UT",
+      "country": "NL  GB  DE",
+      "location": "England, Niedersachsen, Zuid-Holland",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "9",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "9",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "6",
+      "timeSinceLastEntry": 3540
+    },
+    {
+      "eventID": "Event 5518-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5518",
+      "reportAmount": "15",
+      "UTDate": "2025-09-03 00:42 UT",
+      "country": "US  CU",
+      "location": "FL, Matanzas",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "13",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "13",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "12",
+      "timeSinceLastEntry": 14100
+    }
+  ]
 }

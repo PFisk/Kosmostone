@@ -1,54 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5406-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5406",
-      "reportAmount": "3",
-      "UTDate": "2025-08-28 08:16 UT",
-      "country": "US",
-      "location": "MD, NY",
-      "color": "Orange",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "3",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 5407-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5407",
-      "reportAmount": "2",
-      "UTDate": "2025-08-28 08:34 UT",
-      "country": "US",
-      "location": "CO",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "1",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "1",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "1",
-      "timeSinceLastEntry": 1080
-    },
-    {
-      "eventID": "Event 5415-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5415",
-      "reportAmount": "2",
-      "UTDate": "2025-08-28 21:55 UT",
-      "country": "US",
-      "location": "FL",
-      "color": "Orange and yellow",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 48060
-    },
-    {
       "eventID": "Event 5434-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5434",
       "reportAmount": "2",
@@ -62,7 +14,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 960
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5424-2025",
@@ -435,8 +387,8 @@
     {
       "eventID": "Event 5474-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5474",
-      "reportAmount": "2",
-      "UTDate": "2025-08-31 04:10 UT",
+      "reportAmount": "3",
+      "UTDate": "2025-08-31 04:06 UT",
       "country": "US",
       "location": "CA",
       "color": "Blue",
@@ -445,8 +397,8 @@
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 4560
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 4320
     },
     {
       "eventID": "Event 5473-2025",
@@ -462,7 +414,7 @@
       "concurrentSoundNegative": "3",
       "fragmentationPositive": "",
       "fragmentationNegative": "3",
-      "timeSinceLastEntry": 780
+      "timeSinceLastEntry": 1020
     },
     {
       "eventID": "Event 5475-2025",
@@ -643,17 +595,17 @@
     {
       "eventID": "Event 5504-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5504",
-      "reportAmount": "63",
+      "reportAmount": "65",
       "UTDate": "2025-09-01 18:10 UT",
       "country": "SI  IT  HR  CZ  AT",
       "location": "Administrative unit Maribor, Žalec, Burgenland, City of Zagreb, Friuli-Venezia Giulia, Istria County, Karlovac County, Kärnten, Kraj Vysočina, Krško, Ljubljana, Lower Austria, Marche, Niederösterreich, Oberösterreich, Primorje-Gorski, Ribnica, Salzburg, Steiermark, Ve",
       "color": "Weiß",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "53",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "56",
+      "delayedSoundNegative": "55",
+      "concurrentSoundPositive": "1",
+      "concurrentSoundNegative": "57",
       "fragmentationPositive": "1",
-      "fragmentationNegative": "45",
+      "fragmentationNegative": "46",
       "timeSinceLastEntry": 27300
     },
     {
@@ -675,18 +627,18 @@
     {
       "eventID": "Event 5508-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5508",
-      "reportAmount": "6",
-      "UTDate": "2025-09-02 17:59 UT",
+      "reportAmount": "7",
+      "UTDate": "2025-09-02 18:05 UT",
       "country": "IT  GR  AL",
       "location": ", Sicilia, Vlorë County",
       "color": "Light Yellow",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "6",
+      "delayedSoundNegative": "7",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "6",
+      "concurrentSoundNegative": "7",
       "fragmentationPositive": "3",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 78540
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 78900
     },
     {
       "eventID": "Event 5516-2025",
@@ -702,7 +654,7 @@
       "concurrentSoundNegative": "1",
       "fragmentationPositive": "",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 6060
+      "timeSinceLastEntry": 5700
     },
     {
       "eventID": "Event 5510-2025",
@@ -799,6 +751,54 @@
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
       "timeSinceLastEntry": 2100
+    },
+    {
+      "eventID": "Event 5534-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5534",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 08:48 UT",
+      "country": "AU",
+      "location": "New South Wales, Queensland",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 17940
+    },
+    {
+      "eventID": "Event 5541-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5541",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 19:25 UT",
+      "country": "DE  IT",
+      "location": "Bayern, Campania",
+      "color": "Hellgelb",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 38220
+    },
+    {
+      "eventID": "Event 5544-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5544",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 20:24 UT",
+      "country": "GB",
+      "location": "England, Northern Ireland",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 3540
     }
   ]
 }

@@ -1,3 +1,52 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5534-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5534",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 08:48 UT",
+      "country": "AU",
+      "location": "New South Wales, Queensland",
+      "color": "Light Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 17940
+    },
+    {
+      "eventID": "Event 5541-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5541",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 19:25 UT",
+      "country": "DE  IT",
+      "location": "Bayern, Campania",
+      "color": "Hellgelb",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 38220
+    },
+    {
+      "eventID": "Event 5544-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5544",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 20:24 UT",
+      "country": "GB",
+      "location": "England, Northern Ireland",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "2",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 3540
+    }
+  ]
 }

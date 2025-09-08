@@ -1,36 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 5627-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5627",
-      "reportAmount": "49",
-      "UTDate": "2025-09-07 18:45 UT",
-      "country": "PL  DK  DE",
-      "location": ", Berlin, Brandenburg, Hessen, Lower Saxony, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt, Saxony-Anhalt, Schleswig-Holstein, Thüringen, Woiwodschaft Westpommern",
-      "color": "Orange",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "46",
-      "concurrentSoundPositive": "2",
-      "concurrentSoundNegative": "44",
-      "fragmentationPositive": "13",
-      "fragmentationNegative": "23",
-      "timeSinceLastEntry": 1620
-    },
-    {
-      "eventID": "Event 5628-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5628",
-      "reportAmount": "9",
-      "UTDate": "2025-09-07 19:09 UT",
-      "country": "FR  CH",
-      "location": "Auvergne-Rhône-Alpes, Basel-Landschaft, Bourgogne-Franche-Comté, Nouvelle-Aquitaine",
-      "color": "Jaune",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "9",
-      "concurrentSoundPositive": "1",
-      "concurrentSoundNegative": "8",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "6",
-      "timeSinceLastEntry": 1440
-    }
-  ]
+  "fireballs": []
 }

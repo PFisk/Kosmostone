@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5556-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5556",
+      "reportAmount": "2",
+      "UTDate": "2025-09-03 23:39 UT",
+      "country": "AT  FR",
+      "location": "Bourgogne-Franche-Comté, Upper Austria",
+      "color": "White",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 240
+    }
+  ]
 }

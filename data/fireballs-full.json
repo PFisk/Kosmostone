@@ -563,18 +563,18 @@
     {
       "eventID": "Event 5612-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5612",
-      "reportAmount": "48",
-      "UTDate": "2025-09-07 03:29 UT",
+      "reportAmount": "49",
+      "UTDate": "2025-09-07 03:30 UT",
       "country": "US",
       "location": ", AL, IA, IL, IN, KY, MI, MO, OH, TN, WI, WV",
       "color": "White",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "36",
+      "delayedSoundNegative": "37",
       "concurrentSoundPositive": "3",
       "concurrentSoundNegative": "33",
-      "fragmentationPositive": "6",
+      "fragmentationPositive": "7",
       "fragmentationNegative": "29",
-      "timeSinceLastEntry": 4260
+      "timeSinceLastEntry": 4320
     },
     {
       "eventID": "Event 5613-2025",
@@ -590,7 +590,7 @@
       "concurrentSoundNegative": "18",
       "fragmentationPositive": "2",
       "fragmentationNegative": "15",
-      "timeSinceLastEntry": 4320
+      "timeSinceLastEntry": 4260
     },
     {
       "eventID": "Event 5622-2025",
@@ -627,15 +627,15 @@
     {
       "eventID": "Event 5627-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5627",
-      "reportAmount": "73",
+      "reportAmount": "74",
       "UTDate": "2025-09-07 18:44 UT",
       "country": "PL  DK  DE  CZ",
       "location": ", Berlin, Brandenburg, Hessen, Lower Saxony, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt, Saxony-Anhalt, Schleswig-Holstein, Středočeský kraj, Thüringen, Woiwodschaft Westpommern",
       "color": "Orange",
       "delayedSoundPositive": "1",
-      "delayedSoundNegative": "67",
+      "delayedSoundNegative": "68",
       "concurrentSoundPositive": "2",
-      "concurrentSoundNegative": "65",
+      "concurrentSoundNegative": "66",
       "fragmentationPositive": "16",
       "fragmentationNegative": "39",
       "timeSinceLastEntry": 1560

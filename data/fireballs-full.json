@@ -1,38 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5544-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5544",
-      "reportAmount": "3",
-      "UTDate": "2025-09-03 20:27 UT",
-      "country": "GB",
-      "location": "England, Northern Ireland",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "3",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": null
-    },
-    {
-      "eventID": "Event 5548-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5548",
-      "reportAmount": "2",
-      "UTDate": "2025-09-03 21:07 UT",
-      "country": "DE  NL",
-      "location": "Hessen, Noord-Holland",
-      "color": "Weiß",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 2400
-    },
-    {
       "eventID": "Event 5545-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5545",
       "reportAmount": "3",
@@ -46,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 1080
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5555-2025",
@@ -305,6 +273,22 @@
       "timeSinceLastEntry": 3240
     },
     {
+      "eventID": "Event 5700-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5700",
+      "reportAmount": "3",
+      "UTDate": "2025-09-07 00:25 UT",
+      "country": "AR",
+      "location": "Ciudad Autónoma de Buenos Aires, Provincia de Buenos Aires",
+      "color": "Azul claro",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 13980
+    },
+    {
       "eventID": "Event 5611-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5611",
       "reportAmount": "4",
@@ -318,7 +302,7 @@
       "concurrentSoundNegative": "4",
       "fragmentationPositive": "1",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 20280
+      "timeSinceLastEntry": 6300
     },
     {
       "eventID": "Event 5610-2025",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
       "timeSinceLastEntry": 22320
+    },
+    {
+      "eventID": "Event 5701-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5701",
+      "reportAmount": "4",
+      "UTDate": "2025-09-09 17:48 UT",
+      "country": "BR",
+      "location": "Ceará",
+      "color": "Laranja",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "3",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "2",
+      "timeSinceLastEntry": 8100
     }
   ]
 }

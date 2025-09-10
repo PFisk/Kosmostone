@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5707-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5707",
+      "reportAmount": "2",
+      "UTDate": "2025-09-09 18:36 UT",
+      "country": "GR  TR",
+      "location": ", Manisa",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "1",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 3360
+    }
+  ]
 }

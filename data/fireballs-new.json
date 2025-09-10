@@ -1,20 +1,3 @@
 {
-  "fireballs": [
-    {
-      "eventID": "Event 5716-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5716",
-      "reportAmount": "9",
-      "UTDate": "2025-09-10 01:55 UT",
-      "country": "US",
-      "location": "AL, FL",
-      "color": "Green",
-      "delayedSoundPositive": "1",
-      "delayedSoundNegative": "5",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "6",
-      "fragmentationPositive": "1",
-      "fragmentationNegative": "7",
-      "timeSinceLastEntry": 26340
-    }
-  ]
+  "fireballs": []
 }

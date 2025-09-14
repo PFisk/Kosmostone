@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5622-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5622",
-      "reportAmount": "8",
-      "UTDate": "2025-09-07 08:28 UT",
-      "country": "US",
-      "location": "AZ",
-      "color": "Green",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "7",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "7",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "5",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 5626-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5626",
       "reportAmount": "2",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 35400
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5627-2025",
@@ -785,6 +769,22 @@
       "timeSinceLastEntry": 5580
     },
     {
+      "eventID": "Event 5781-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5781",
+      "reportAmount": "5",
+      "UTDate": "2025-09-12 00:34 UT",
+      "country": "DE",
+      "location": "Mecklenburg-Vorpommern, Sachsen-Anhalt, Thüringen",
+      "color": "Grün",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "3",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "5",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 8520
+    },
+    {
       "eventID": "Event 5744-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5744",
       "reportAmount": "2",
@@ -798,7 +798,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "1",
       "fragmentationNegative": "1",
-      "timeSinceLastEntry": 173400
+      "timeSinceLastEntry": 164880
     }
   ]
 }

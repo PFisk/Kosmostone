@@ -1,3 +1,20 @@
 {
-  "fireballs": []
+  "fireballs": [
+    {
+      "eventID": "Event 5744-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5744",
+      "reportAmount": "2",
+      "UTDate": "2025-09-13 22:22 UT",
+      "country": "AR",
+      "location": "Chubut Province, Provincia de Buenos Aires",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 301260
+    }
+  ]
 }

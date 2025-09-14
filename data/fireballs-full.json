@@ -1,22 +1,6 @@
 {
   "fireballs": [
     {
-      "eventID": "Event 5568-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5568",
-      "reportAmount": "2",
-      "UTDate": "2025-09-04 08:17 UT",
-      "country": "US",
-      "location": "CA",
-      "color": "White",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": null
-    },
-    {
       "eventID": "Event 5567-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5567",
       "reportAmount": "2",
@@ -30,7 +14,7 @@
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
       "fragmentationNegative": "2",
-      "timeSinceLastEntry": 180
+      "timeSinceLastEntry": null
     },
     {
       "eventID": "Event 5569-2025",
@@ -563,18 +547,18 @@
     {
       "eventID": "Event 5684-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5684",
-      "reportAmount": "4",
-      "UTDate": "2025-09-09 03:51 UT",
+      "reportAmount": "5",
+      "UTDate": "2025-09-09 03:52 UT",
       "country": "US  CA",
       "location": "NH, NY, Québec, RI",
       "color": "White",
       "delayedSoundPositive": "",
-      "delayedSoundNegative": "3",
+      "delayedSoundNegative": "4",
       "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "3",
+      "concurrentSoundNegative": "4",
       "fragmentationPositive": "",
-      "fragmentationNegative": "2",
-      "timeSinceLastEntry": 2160
+      "fragmentationNegative": "3",
+      "timeSinceLastEntry": 2220
     },
     {
       "eventID": "Event 5685-2025",
@@ -590,7 +574,7 @@
       "concurrentSoundNegative": "6",
       "fragmentationPositive": "",
       "fragmentationNegative": "5",
-      "timeSinceLastEntry": 3240
+      "timeSinceLastEntry": 3180
     },
     {
       "eventID": "Event 5691-2025",
@@ -721,22 +705,6 @@
       "timeSinceLastEntry": 26520
     },
     {
-      "eventID": "Event 5729-2025",
-      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5729",
-      "reportAmount": "2",
-      "UTDate": "2025-09-10 02:30 UT",
-      "country": "US",
-      "location": "FL, LA",
-      "color": "Yellow",
-      "delayedSoundPositive": "",
-      "delayedSoundNegative": "2",
-      "concurrentSoundPositive": "",
-      "concurrentSoundNegative": "2",
-      "fragmentationPositive": "",
-      "fragmentationNegative": "",
-      "timeSinceLastEntry": 1920
-    },
-    {
       "eventID": "Event 5718-2025",
       "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5718",
       "reportAmount": "2",
@@ -746,6 +714,22 @@
       "color": "Orange",
       "delayedSoundPositive": "1",
       "delayedSoundNegative": "1",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "",
+      "fragmentationNegative": "",
+      "timeSinceLastEntry": 1920
+    },
+    {
+      "eventID": "Event 5729-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5729",
+      "reportAmount": "2",
+      "UTDate": "2025-09-10 02:30 UT",
+      "country": "US",
+      "location": "FL, LA",
+      "color": "Yellow",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
       "concurrentSoundPositive": "",
       "concurrentSoundNegative": "2",
       "fragmentationPositive": "",
@@ -799,6 +783,22 @@
       "fragmentationPositive": "6",
       "fragmentationNegative": "14",
       "timeSinceLastEntry": 9120
+    },
+    {
+      "eventID": "Event 5744-2025",
+      "eventLink": "https://fireball.amsmeteors.org/members/imo_view/event/2025/5744",
+      "reportAmount": "2",
+      "UTDate": "2025-09-13 22:22 UT",
+      "country": "AR",
+      "location": "Chubut Province, Provincia de Buenos Aires",
+      "color": "Orange",
+      "delayedSoundPositive": "",
+      "delayedSoundNegative": "2",
+      "concurrentSoundPositive": "",
+      "concurrentSoundNegative": "2",
+      "fragmentationPositive": "1",
+      "fragmentationNegative": "1",
+      "timeSinceLastEntry": 301260
     }
   ]
 }
